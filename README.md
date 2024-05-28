@@ -1,8 +1,8 @@
-# Oncology estimand working group
+# Estimands Implementation Working Group (EIWG)
 
-The estimand framework aims at aligning trial objectives and statistical analyses by demanding a precise definition of the inferential quantity of interest, the estimand.
+EIWG brings together statisticians and clinicians to support the estimand journey.
 
 # Links to this page
 
-- Link to this page: <http://www.oncoestimand.org>.
-- Github repo: <https://github.com/oncoestimand>
+- Link to this page: <https://eiwg.github.io/eiwg_webpage/>.
+- Github repo: <https://github.com/eiwg/eiwg_webpage>
