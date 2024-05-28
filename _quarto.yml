@@ -26,7 +26,7 @@ project:
 website:
   title: "Oncology Estimand WG"
   navbar:
-    background: success
+    background: "#2C3791"
     left:
     - text: "About"
       menu:
