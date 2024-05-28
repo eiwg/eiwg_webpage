@@ -1,0 +1,97 @@
+---
+title: "Latest updates of this page"
+date: last-modified
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: yes
+    self_contained: yes
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+bibliography: biblio.bib
+---
+
+# 2024
+
+- 20th February: Our first [linkedin video](videos.html) was published!
+- 15th February: The paper on _Time-to-event estimands and loss to follow-up in oncology in light of the estimands framework_ has been accepted by Pharmaceutical Statistics, see [publications](publications.html).
+- 15th January: Added submitte paper _Censoring Assumptions for Time-to-event Endpoints for Oncology Trials in Light of the Estimands Framework_ to [publications](publications.html).
+
+# 2023
+
+- 18th December: Latest [newsletter](communication/comm20231218.html) to the group.
+- 12th December: The papers on 
+  - _Estimands in oncology early clinical development: Assessing the impact of intercurrent events on the dose-toxicity relationship._ 
+  - _Conditional and Unconditional treatment effects in randomized clinical trials: Estimands, Estimation, and Interpretation._ 
+  have both been accepted by Statistics in Biopharmaceutical Research, see [publications](publications.html).
+- 7th December: The paper on _Reflections on estimands for patient-reported outcomes in cancer clinical trials._ has been accepted by Journal of Biopharmaceutical Statistics, see [publications](publications.html).
+- 5th December: Added [2023 achievements](achievements.html#achievements-2023).
+- 1st November: Anja Victor and Stefan Englert will present at [APF Workshop](events_upcoming.html#apf-workshop-early-phase-clinical-development-estimands-biomarkers-and-decision-making) in Darmstadt.
+- 7th October: The paper on _Duration of and time to response in oncology clinical trials from the perspective of the estimand framework._ has been accepted by Pharmaceutical Statistics, see [publications](publications.html).
+- 6th October: Added [slides of panel discussion](https://oncoestimand.github.io/oncowg_webpage/docs/events_past.html#asa-biopharmaceutical-section-regulatory-industry-statistics-workshop) on "Estimands in Oncology: New Directions" at [ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop]().
+- 13th September: [Poster](https://oncoestimand.github.io/oncowg_webpage/docs/events_past.html#efspi-regulatory-statistics-workshop) presented by the conditional vs. marginal taskforce at the [8th EFSPI regulatory statistics workshop](https://efspiworkshop.github.io/efspiworkshop/docs/).
+- 11th September: Updated [roster](taskforces).
+- 7th August: Added Jonathan's [JSM talk](https://oncoestimand.github.io/oncowg_webpage/docs/events_past.html#joint-statistical-meetings).
+- 17th July: Latest [newsletter](communication/comm20230717.html) to the group.
+- 6th July: Added more slidedecks of [LIDS conference](https://oncoestimand.github.io/oncowg_webpage/docs/events_past.html#lifetime-data-science-conference-lids).
+- 23th June: The paper on _Defining estimands for efficacy assessment in single arm Phase 1b or Phase 2 clinical trials in oncology early development._ has been accepted by Pharmaceutical Statistics, see [publications](publications.html).
+- 7th June: Added titles of talks and for some of them slidedecks of [LIDS conference](https://oncoestimand.github.io/oncowg_webpage/docs/events_past.html#lifetime-data-science-conference-lids).
+- 21th April: Added slides and recordings of BBS seminar [Quantification of risk: ask the right questions or time to apply the estimand framework to safety!](https://baselbiometrics.github.io/home/docs/events_past.html#quantification-of-risk-ask-the-right-questions-or-time-to-apply-the-estimand-framework-to-safety) to [past events page](events_past.html).
+- 19th April: The [paper on Logic-Respecting Efficacy Estimands](https://doi.org/10.1080/19466315.2023.2186945) has been accepted by Statistics in Biopharmaceutical Research.
+- 15th March: The [paper on quantification of follow-up](https://arxiv.org/abs/2206.05216) has been accepted by Pharmaceutical Statistics.
+- 30th January: 
+  - Updated status of [task forces](taskforces.html).
+  - The group will give an invited talk around the topic of estimands at the [Nordic lymphoma meeting](http://www.nordic-lymphoma.org/plenary-meeting/) in November. 
+
+# 2022
+
+- 21th December: The [duration of response](https://oncoestimand.github.io/oncowg_webpage/docs/taskforces.html#duration-of-responses) has submitted a paper including [code](https://oncoestimand.github.io/dor/dor.html). See [publications](publications.html#submitted).
+- 16th December: Latest [newsletter](communication/comm20221216.html) to the group.
+- 15th December: The WG has been granted an entire session at the [2023 PSI Conference](https://www.psiweb.org/conferences/about-the-conference) in London, see [here](events_upcoming.html#psi-conference) for the agenda.
+- 3rd December: Added slidedecks and link to recording of [ASA New Jersey Chapter Webinar Series: Getting the question right: Applying the Estimand and Target Trial Frameworks with External Controls](talks/20221202_ASA_NJ_TTF_estimands.pdf) to [events](events_past.html).
+- 29th November: Updated roster of [Time to event endpoints with prognostic or predictive biomarker subgroups task force](https://oncoestimand.github.io/oncowg_webpage/docs/taskforces.html#time-to-event-endpoints-with-prognostic-or-predictive-biomarker-subgroups).
+- 25th November: 
+  - Moved this page to [quarto](https://quarto.org/) implying a slightly different look.
+  - Added [2022 achievements](achievements.html).
+-   16th November: Jonathan Siegel will give a presentation on estimands for time-to-event endpoints at the [Duke Industry Statistics Symposium 2023](https://sites.duke.edu/diss/) in March 2023, see [events](events_past.html) for details.
+-   15th November: Together with ASA NJ chapter the WG is co-organizing a webinar, see [events](events_past.html) for details.
+-   24th October: Added slides of the [conditional and marginal taskforce](taskforces.html#conditional-vs.-marginal-effects) presented at a [DIA China webinar](events_past.html#dia-china-webinar).
+-   11th October: Latest [newsletter](communication/comm20221011.html) to the group.
+-   24th September: Added slidedecks from recent conferences.
+-   1st July: Added [slidedeck and written updates](ha.html) of recent full group TC.
+-   29th June: After submission of its paper (see [publications](publications.html)) the [follow-up quantification task force](taskforces.html#quantification-of-follow-up) is now inactive.
+-   17th June: Added [talks](events_past.html#psi-annual-conference) from our session at the PSI conference in Gothenburg.
+-   13th June: Paper from follow-up quantification task force posted on [arXiv](https://doi.org/10.48550/arxiv.2206.05216). See [publications](publications.html).
+-   23th May: Latest [newsletter](communication/comm20220523.html) to the group.
+-   17th May: updated [events page](events_past.html) with past and upcoming appearances of the WG.
+-   26th March: added slidedeck and recording of Graham Dunn Seminar to [events page](events_past.html).
+-   8th March: arxiv links added for the two submitted papers of the censoring subteam.
+-   4th March: We have now officially started work in the [safety taskforce](taskforces.html#estimands-for-safety). Many thanks to Jonathan Siegel for starting and leading this!
+-   3rd February: Congratulations to the authors of [Sun et al. and Bornkamp et al.](publications.html) - these papers were the 3rd and 4th most downloaded papers that appeared in 2021 in [Pharmaceutical Statistics](https://onlinelibrary.wiley.com/journal/15391612).
+-   26nd January: The censoring subteam has submitted two papers, see [publications](publications.html).
+
+# 2021
+
+-   22nd December: Added [slidedeck on backfitting MMRM](talks/PRO%20TF%20(2021)%20Backfitting%20MMRM.pdf) of PRO task force, see their entry [here](taskforces.html#patient-reported-outcomes).
+-   6th December: Latest [newsletter](communication/comm20211206.html) to the group.
+-   26th November: Added new page [Further resources](resources.html) with links to other estimand working groups (we are aware of) and a section with introductory estimand material.
+-   13th October: Added remit of [Task Force 2](taskforces.html#principal-stratification-in-clinical-trials).
+-   30th September: Added slidedeck from recent, under [events](events_past.html).
+-   22th September: Added new paper by Hampson et al. to [publications](publications.html).
+-   17th September: Latest [newsletter](communication/comm20210917.html) to the group.
+-   2nd September: Added announcement of *DIA webinar: Estimands How and Why - A Real Life Case Study in Oncology* on [events page](events_past.html).
+-   25th July: Added a section on collaborations to the [organization tab](organization.html).
+-   10th July: The paper on treatment switching has been accepted by Pharmaceutical statistics.
+-   22th June: New design of this webpage online.
+-   15th June: Added [slidedeck](talks/SCT%202021%20estimand%20onco.pdf) that the clinical engagement subteam presented at the [Society for Clinical Trials](https://www.sctweb.org/) conference 2021.
+-   7th June: Added [slidedeck](talks/20210601_clin_eng.pdf) and [recording](https://www.psiweb.org/events/event-item/2021/06/01/default-calendar/psi-eiwg-webinar-estimands-in-oncology---how-and-why) from [PSI EIWG Webinar: Estimands in Oncology - How and Why](https://www.psiweb.org/events/event-item/2021/06/01/default-calendar/psi-eiwg-webinar-estimands-in-oncology---how-and-why), updated team roster.
+-   3rd May: Added members of EDEN task force.
+-   28th April: The WG offers a new webinar [PSI EIWG Webinar: Estimands in Oncology - How and Why](https://www.psiweb.org/events/event-item/2021/06/01/default-calendar/psi-eiwg-webinar-estimands-in-oncology---how-and-why), targeted at Clinicians, Investigators, Regulatory Experts, Medical Writers, Ethics Committees, Statisticians.
+-   13th April: Kickoff of EDEN (Early Development Estimand Nexus) task force.
+-   22th March: Natalia Kan-Dobrosky will talk at the [Duke Industry Statistics Symposium](https://sites.duke.edu/diss/) on "Estimands in clinical trials with treatment switching".
+-   5th March: Two sessions with involvement of the WG at this year's [ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop 2021](https://ww2.amstat.org/meetings/biop/2021), see below for details.
+-   28th February: Added rosters and objectives of [task forces](taskforces.html).
+-   11th February: Added [slides](talks/20210211_DCTs_estimands.pdf) presented by Evgeny and Kaspar at ASA - FDA - LUNGevity symposium "Statistical considerations in Oncology clinical trials in the COVID-19 era".
+-   5th February: Papers on [principal stratification](https://arxiv.org/abs/2008.05406) and [hematology case studies](https://arxiv.org/abs/2010.00957) both accepted for publication by [Pharmaceutical Statistics](https://onlinelibrary.wiley.com/journal/15391612). See [publication section](publications.html).
+-   30th January: Kick-off of new task forces.
