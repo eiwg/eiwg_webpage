@@ -24,7 +24,7 @@ project:
     - videos.qmd
 
 website:
-  title: "Oncology Estimand WG"
+  title: "EFSPI/EFPIA Estimands Implementation WG"
   navbar:
     background: "#2C3791"
     left:
