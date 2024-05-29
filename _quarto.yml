@@ -24,7 +24,7 @@ project:
     - videos.qmd
 
 website:
-  title: "EFSPI/EFPIA Estimands Implementation WG"
+  title: "EFSPI/EFPIA EIWG"
   navbar:
     background: "#2C3791"
     left:
