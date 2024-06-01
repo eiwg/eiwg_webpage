@@ -2,26 +2,20 @@ project:
   type: website
   output-dir: docs
   render:
-    - about.qmd
-    - updates.qmd
     - index.qmd
     - achievements.qmd
+    - code.qmd
+    - collaborations.qmd
     - events_upcoming.qmd
     - events_past.qmd
-    - ha.qmd
+    - trainings.qmd
     - history.qmd
-    - news.qmd
     - organization.qmd
     - publications.qmd
     - resources.qmd
     - scope.qmd
     - status.qmd
-    - taskforces.qmd
-    - communication/
-    - code.qmd
-    - collaborations.qmd
-    - nalt_9862938.qmd
-    - videos.qmd
+    - subteams.qmd
 
 website:
   title: "EFSPI/EFPIA EIWG"
@@ -32,8 +26,6 @@ website:
       menu:
         - text: "About"
           href: index.html
-        - text: "Updates of this page"
-          href: updates.html
         - text: "History"
           href: history.html
         - text: "Scope"
@@ -46,10 +38,10 @@ website:
           href: collaborations.html
         - text: "Achievements per year"
           href: achievements.html
-    - text: "Task forces"
-      href: taskforces.html
-    - text: "Health authority interactions"
-      href: ha.html
+    - text: "Subteams"
+      href: subteams.html
+    - text: "Trainings"
+      href: trainings.html
     - text: "Publications"
       href: publications.html
     - text: "Code"
@@ -60,12 +52,6 @@ website:
           href: events_upcoming.html
         - text: "Past events"
           href: events_past.html
-    - text: "Communication"
-      menu:
-        - text: "Newsletters"
-          href: news.html
-        - text: "Linkedin videos"
-          href: videos.html
     - text: "Further resources"
       href: resources.html
 
