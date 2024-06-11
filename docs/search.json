@@ -2,112 +2,112 @@
   {
     "objectID": "subteams.html",
     "href": "subteams.html",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "",
-    "text": "After a first phase where five subteams have written several publications (see publications) the working group now operates within seven task forces. Objectives and member rosters of these task forces are available below."
+    "text": "The working group now operates within eight sub-teams. Objectives and member rosters of these sub-teams are available below."
   },
   {
     "objectID": "subteams.html#estimands-engagement",
     "href": "subteams.html#estimands-engagement",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Estimands engagement",
     "text": "Estimands engagement\nLead: Stefan Englert (J&J)\nObjective: Develop basic introductory material that can be used by all study team members to educate themselves on Oncology Estimands. Translate key messages from the working group activities to a non-statistical audience, targeting especially clinical functions.\nOpen to new members from regulatory agencies and academia.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJiawei\nWei\nNovartis\nAsia\n\n\nStefan\nEnglert\nJ&J\nEurope\n\n\nJonathan\nSiegel\nBayer\nNorAm\n\n\nFeng\nLiu\nMarengo Therapeutics\nNorAm\n\n\nRui\nTang\nServier\nNorAm"
   },
   {
     "objectID": "subteams.html#principal-stratification-in-clinical-trials",
     "href": "subteams.html#principal-stratification-in-clinical-trials",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Principal stratification in clinical trials",
     "text": "Principal stratification in clinical trials\nLead: Yufei Wang (GSK)\nObjective: This task force performs periodical literature reviews of principal stratum applied to treatment switching, focusing on the analysis of overall survival. It aims to evaluate and improve existing methods, develop new principal stratification models for treatment switching, e.g. through simulation studies to compare operating characteristics, relaxation/stress test of key assumptions, prior selection for Bayesian analysis, and software for implementation.\nCommunication of results is intended to happen through publication(s) for peer-reviewed journals, presentations/round-table discussions/trainings at various forums (JSM, DIA, FDA workshop, ISCB, …).\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nYufei\nWang\nGSK\nEurope\n\n\nNatalia\nKan-Dobrosky\nAbbvie\nNorAm\n\n\nKaifeng\nLu\nBeigene\nNorAm\n\n\nMehreteab\nAregay\nDaiichi Sankyo\nNorAm\n\n\nPeixin\nZhang\nIncyte\nNorAm\n\n\nSatrajit\nRoychoudhury\nPfizer\nNorAm\n\n\nSongzi\nLi\nNA\nNorAm"
   },
   {
     "objectID": "subteams.html#conditional-vs.-marginal-effects",
     "href": "subteams.html#conditional-vs.-marginal-effects",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Conditional vs. marginal effects",
     "text": "Conditional vs. marginal effects\nLead: Jiawei Wei (Novartis)\nObjective: We would like to bring the complex concept and methods about conditional and marginal treatment effect into a simplified and interpretable way. Potential topics including adjusted or unadjusted analysis; stratified vs unstratified hazard ratio; collapsibility and subgroup; p-values; etc. We will give clinically relevant opinions and recommendations based on our interpretation, and illustrate the idea using some case studies.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJiajun\nXu\nJ&J\nAsia\n\n\nBingying\nXie\nJunshi Pharma\nAsia\n\n\nJiawei\nWei\nNovartis\nAsia\n\n\nZiqiang\nZhao\nNovartis\nAsia\n\n\nXin\nZhang\nPfizer\nAsia\n\n\nLiming\nLi\nRoche\nAsia\n\n\nSarwar\nMozumder\nAstraZeneca\nEurope\n\n\nBjörn\nBornkamp\nNovartis\nEurope\n\n\nHong\nTian\nBeigene\nNorAm\n\n\nDong\nXi\nGilead\nNorAm\n\n\nAlex\nSverdlov\nNovartis\nNorAm\n\n\nSatrajit\nRoychoudhury\nPfizer\nNorAm\n\n\nRay\nLin\nRoche\nNorAm\n\n\nQing\nXu\nTaiho Oncology\nNorAm\n\n\nJonathan\nChipman\nUniversity of Utah\nNorAm"
   },
   {
     "objectID": "subteams.html#time-to-event-endpoints-with-prognostic-or-predictive-biomarker-subgroups",
     "href": "subteams.html#time-to-event-endpoints-with-prognostic-or-predictive-biomarker-subgroups",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Time to event endpoints with prognostic or predictive biomarker subgroups",
     "text": "Time to event endpoints with prognostic or predictive biomarker subgroups\nLead: Hong Tian (Beigene), Miao Yang (Seagen)\nObjective: Our goal is to understand various efficacy estimands of biomarker subgroups and its relationship to the overall population for binary and time-to-event endpoints. For continuous outcomes with difference of means as efficacy estimand, Least Square estimates from the full model containing treatment, subgroup, and its interaction term enable an unbiased estimation of efficacy for the overall population by linearly combining estimands of the two subgroups. Following the same process for binary or time-to-event efficacy estimands such as hazard ratio or odds ratio, although guaranteeing logical inference in appearance, does not lead to the correct efficacy estimand of the overall population. In fact, the correct HR (or OR) may be outside of the interval of subgroup HRs (or ORs) leading to illogical interpretations. The task force will investigate which efficacy measures are logic respecting on the population level and make recommendations on how to analyze real clinical trial data so that analysis results based on these efficacy measures will always be logical for either prognostic or predictive biomarkers.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nSiyoen\nKil\nLSK Global Pharma Services\nAsia\n\n\nHong\nSun\nBMS\nEurope\n\n\nMin-Hua\nJen\nLilly\nEurope\n\n\nFrancois\nMercier\nRoche\nEurope\n\n\nShoubhik\nMondal\nAstraZeneca\nNorAm\n\n\nHong\nTian\nBeigene\nNorAm\n\n\nYue\nShentu\nDaiichi Sankyo\nNorAm\n\n\nHaiming\nZhou\nDaiichi Sankyo\nNorAm\n\n\nLiwei\nWang\nGenmab\nNorAm\n\n\nYi\nLiu\nNektar\nNorAm\n\n\nWenchuan\nGuo\nSeagen\nNorAm\n\n\nMiao\nYang\nSeagen\nNorAm"
   },
   {
     "objectID": "subteams.html#real-world-data-and-estimands",
     "href": "subteams.html#real-world-data-and-estimands",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Real-world data and estimands",
     "text": "Real-world data and estimands\nLead: Evgeny Degtyarev (Novartis)\nObjective: Illustrate the value and promote the use of target trial framework and estimand framework for design of comparisons including real-world data. The frameworks allows to clarify the definition of the causal question of interest ensuring alignment between the research objective and analysis. Its application in submission documents would facilitate regulatory review in a transparent and structured way.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nRajat\nMukherjee\nAlira Health\nEurope\n\n\nAnnette\nSauter\nJ&J\nEurope\n\n\nEvgeny\nDegtyarev\nNovartis\nEurope\n\n\nLisa\nHampson\nNovartis\nEurope\n\n\nZhaohui\nWang\nGSK\nNorAm\n\n\nBenjamin\nLi\nPfizer\nNorAm\n\n\nRui\nTang\nServier\nNorAm\n\n\nJianchang\nLin\nTakeda\nNorAm\n\n\nFeng\nXiao\nVanda Pharma\nNorAm\n\n\nCheng\nZheng\nZentalis\nNorAm\n\n\nLei\nGao\nNA\nNorAm"
   },
   {
     "objectID": "subteams.html#estimands-for-safety",
     "href": "subteams.html#estimands-for-safety",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Estimands for Safety",
     "text": "Estimands for Safety\nLead: Jonathan Siegel (Bayer)\nObjective: Key issues of interest for this task force are: (1) Estimands for safety-focused studies (2) Safety estimands within the context of a conventional efficacy study (3) Implementing estimands principles in general safety reporting and analysis (including what to change and what to leave in place) (4) Implementing estimands principles in associated CRF and data standards. The mission of the group is up for discussion and I would appreciate your interest.\nThe envisioned output for the group would be white papers, one focused on study design and statistical methodological considerations in safety estimands, and one focused on more nuts-and-bolts implementation issues including recommendations for general safety reporting, visit schedule and withdrawal criteria issues, monitoring, CRF considerations, data considerations and changes in data standards etc. In addition, the TF plans to involve itself in WG discussions with and recommendations to regulatory authorities, conference presentations, outreach webinars and workshops, etc.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJiawei\nWei\nNovartis\nAsia\n\n\nAlan\nPhillips\nAJPStatistics\nEurope\n\n\nLuc\nBoone\nEORTC\nEurope\n\n\nMurielle\nMaurer\nEORTC\nEurope\n\n\nMarie-Laure\nCasadebaig\nIncyte\nEurope\n\n\nAnja-Helena\nLoos\nMerck\nEurope\n\n\nPedro\nLopez Romero\nNovartis\nEurope\n\n\nRemi\nAprahamian\nServier\nEurope\n\n\nAlexander\nStemke\nNA\nEurope\n\n\nGreg\nBall\nASAP Process Planning\nNorAm\n\n\nNatalia\nKan-Dobrosky\nAbbvie\nNorAm\n\n\nJonathan\nSiegel\nBayer\nNorAm\n\n\nJames\nBuchanan\nCovilance\nNorAm\n\n\nPhilip\nHe\nDSI\nNorAm\n\n\nShayami\nThanabalasundrum\nExelis\nNorAm\n\n\nShanti\nGomatam\nFDA\nNorAm\n\n\nIsabel\nHuang\nICON\nNorAm\n\n\nSteven\nSun\nJ&J\nNorAm\n\n\nMary\nNilsson\nLilly\nNorAm\n\n\nMengchun\nLi\nMerck\nNorAm\n\n\nHongtao\nZhang\nMerck\nNorAm\n\n\nYi\nLan\nNovartis\nNorAm\n\n\nCraig\nMallinckrodt\nPentara Corp\nNorAm\n\n\nRui\nTang\nServier\nNorAm"
   },
   {
     "objectID": "subteams.html#patient-reported-outcomes",
     "href": "subteams.html#patient-reported-outcomes",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Patient-reported outcomes",
     "text": "Patient-reported outcomes\nLead: Rachael Lawrance (Adelphi)\nObjective: Clarify what questions are we answering with typical analyses conducted on HRQoL endpoints in regulatory clinical trials. We are going to consider longitudinal mixed models and time to event analyses initially; “mapping” potential common questions into the estimand framework. The task force is also going to dig into the question of “how to handle death” in HRQoL analyses. We are keen to build collaborative approaches with statisticians and others active in this topic area, such as SISAQoL and ISOQoL working groups.\n2021 summary on backfitting MMRM\nThis taskforce has concluded its work. As a spin-off a new EFSPI SIG is to be initiated in early 2024. If you are interested to join please reach out to Rachael Lawrance.\n\n\n\n\n\n\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nRachael\nLawrance\nAdelphi\nEurope\n\n\nRajat\nMukherjee\nAlira Health\nEurope\n\n\nXiangning\nHuang\nAstraZeneca\nEurope\n\n\nKonstantina\nSkaltsa\nIQVIA\nEurope\n\n\nAntoine\nRegnault\nModus Outcomes\nEurope\n\n\nEvgeny\nDegtyarev\nNovartis\nEurope\n\n\nStephen\nCorson\nPhastar\nEurope\n\n\nJonathan\nSiegel\nBayer\nNorAm\n\n\nLibby\nFloden\nClinOutSolutions\nNorAm\n\n\nDevin\nPeipert\nNorthwestern University Feinberg School of Medicine\nNorAm\n\n\nDave\nAndrae\nNA\nNorAm"
   },
   {
     "objectID": "subteams.html#duration-of-responses",
     "href": "subteams.html#duration-of-responses",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Duration of responses",
     "text": "Duration of responses\nLead: Hans-Jochen Weber (Novartis)\nObjective: Duration of response and also time to response are standard secondary endpoints in clinical studies in oncology. There are different approaches for analysis and often the clinical question to be addressed remains unclear. We contextualize the different approaches using the estimand framework and illustrate those with case studies. Finally we intend to present recommendations for analyses targeting relevant clinical questions.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nAlex\nTodd\nAstraZeneca\nEurope\n\n\nHong\nSun\nBMS\nEurope\n\n\nMartin-Oliver\nSailer\nBoehringer\nEurope\n\n\nMin-Hua\nJen\nLilly\nEurope\n\n\nHans-Jochen\nWeber\nNovartis\nEurope\n\n\nStephen\nCorson\nPhastar\nEurope\n\n\nFrancois\nMercier\nRoche\nEurope\n\n\nJiang\nLi\nBeigene\nNorAm\n\n\nSteven\nSun\nJ&J\nNorAm\n\n\nSatrajit\nRoychoudhury\nPfizer\nNorAm\n\n\nGodwin\nYung\nRoche\nNorAm\n\n\nWenchuan\nGuo\nSeagen\nNorAm"
   },
   {
     "objectID": "subteams.html#quantification-of-follow-up",
     "href": "subteams.html#quantification-of-follow-up",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Quantification of follow-up",
     "text": "Quantification of follow-up\nLead: Kaspar Rufibach (Roche)\nObjective: This task force has submitted a paper entitled Quantification of Follow-up Time in Oncology Clinical Trials with a Time-to-Event Endpoint: Asking the Right Questions, find the link on the publications page. All questions initially asked have been discussed in this paper and the task force is therefore currently inactive.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nLynda\nGrinsted\nAstraZeneca\nEurope\n\n\nHans-Jochen\nWeber\nNovartis\nEurope\n\n\nKaspar\nRufibach\nRoche\nEurope\n\n\nJiang\nLi\nBeigene\nNorAm\n\n\nYue\nShentu\nDaiichi Sankyo\nNorAm\n\n\nJiangxiu\nZhou\nJ&J\nNorAm\n\n\nCheng\nZheng\nZentalis\nNorAm"
   },
   {
     "objectID": "subteams.html#early-development-estimand-nexus-eden",
     "href": "subteams.html#early-development-estimand-nexus-eden",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Early development estimand nexus (EDEN)",
     "text": "Early development estimand nexus (EDEN)\nLead: Francois Mercier (Roche)\nObjective: In oncology Phase 1a (dose-escalation) and Phase 1b (expansion cohort) studies, the designs are complex because the objectives are often multiple and ambitious. Defining estimands and the associated estimators in this setting can be difficult. In this WG, we intend to implement the ICH-E9 addendum and to reflect on the challenges it presents in early clinical development studies. Such challenges may include: (1) absence of control group (2) varying dose, but also dosing schedule across treatment arms (a.k.a. cohorts) (3) presence of anti-drug antibody (ADA) (4) prophylactic treatment or co-medication for toxicity mitigation (e.g. using steroids) (5) compassionate within-patient dose escalation. The taskforce will give clinically relevant opinions and recommendations based on our analysis and interpretation of the selected case studies. Contact to other task forces will be sought based on need.\n\n\n\n\n\n\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nElizabeth\nPilling\nAstraZeneca\nEurope\n\n\nVictoria\nHomer\nCancer Research UK Clinical Trials Unit\nEurope\n\n\nStefan\nEnglert\nJ&J\nEurope\n\n\nChristina\nHabermehl\nMerck\nEurope\n\n\nAnja\nVictor\nMerck\nEurope\n\n\nFrancois\nMercier\nRoche\nEurope\n\n\nNatalia\nKan-Dobrosky\nAbbvie\nNorAm\n\n\nAtalanta\nGhosh\nBMS\nNorAm\n\n\nJunxian\nGeng\nBoehringer\nNorAm\n\n\nHongtao\nZhang\nMerck\nNorAm\n\n\nGuillaume\nLecorps\nSanofi\nNorAm\n\n\nXiaojiang\nZhan\nServier\nNorAm"
   },
   {
     "objectID": "subteams.html#treatment-switching",
     "href": "subteams.html#treatment-switching",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Treatment Switching",
     "text": "Treatment Switching\nLead: Viktoriya Stalbovskaya (Merus)\nObjective: Subteam that looked into treatment switching. Published paper, see publications.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJianhong\nPan\nChina\nAsia\n\n\nJun\nWang\nChina\nAsia\n\n\nYuki\nAndo\nJapan\nAsia\n\n\nAyako\nHara\nJapan\nAsia\n\n\nXin\nZhang\nPfizer\nAsia\n\n\nGuei-Feng\nTsai\nTaiwan\nAsia\n\n\nHong\nSun\nBMS\nEurope\n\n\nMarie-Laure\nCasadebaig\nIncyte\nEurope\n\n\nMin-Hua\nJen\nLilly\nEurope\n\n\nViktoriya\nStalbovskaya\nMerus\nEurope\n\n\nAnja\nSchiel\nNorway\nEurope\n\n\nEvgeny\nDegtyarev\nNovartis\nEurope\n\n\nHannes\nBuchner\nStaburo\nEurope\n\n\nNatalia\nKan-Dobrosky\nAbbvie\nNorAm\n\n\nCatherine\nNjue\nCanada\nNorAm\n\n\nYue\nShentu\nDaiichi Sankyo\nNorAm\n\n\nJuliane\nManitz\nEMD Serono\nNorAm\n\n\nEmily\nMartin\nEMD Serono\nNorAm\n\n\nJiangxiu\nZhou\nJ&J\nNorAm\n\n\nGodwin\nYung\nRoche\nNorAm\n\n\nWenchuan\nGuo\nSeagen\nNorAm\n\n\nRui\nTang\nServier\nNorAm"
   },
   {
     "objectID": "subteams.html#causal-estimands",
     "href": "subteams.html#causal-estimands",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Causal estimands",
     "text": "Causal estimands\nLead: Kaspar Rufibach (Roche)\nObjective: Subteam that looked into how to merge causal inference with the ICH E9 addendum. Published a paper on the principal stratum strategy, see publications.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJianhong\nPan\nChina\nAsia\n\n\nJun\nWang\nChina\nAsia\n\n\nYuki\nAndo\nJapan\nAsia\n\n\nAyako\nHara\nJapan\nAsia\n\n\nGuei-Feng\nTsai\nTaiwan\nAsia\n\n\nAlan\nPhillips\nAJPStatistics\nEurope\n\n\nAndreas\nBrandt\nGermany\nEurope\n\n\nMarie-Laure\nCasadebaig\nIncyte\nEurope\n\n\nAnja\nSchiel\nNorway\nEurope\n\n\nBjörn\nBornkamp\nNovartis\nEurope\n\n\nKaspar\nRufibach\nRoche\nEurope\n\n\nAn\nVandebosch\nargenx\nEurope\n\n\nCatherine\nNjue\nCanada\nNorAm\n\n\nYue\nShentu\nDaiichi Sankyo\nNorAm\n\n\nEmily\nMartin\nEMD Serono\nNorAm\n\n\nFeng\nLiu\nMarengo Therapeutics\nNorAm\n\n\nDevan\nMehrotra\nMerck\nNorAm\n\n\nYi\nLiu\nNektar\nNorAm\n\n\nSatrajit\nRoychoudhury\nPfizer\nNorAm\n\n\nAudrey\nBoruvka\nRoche\nNorAm\n\n\nJianchang\nLin\nTakeda\nNorAm"
   },
   {
     "objectID": "subteams.html#censoring",
     "href": "subteams.html#censoring",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Censoring",
     "text": "Censoring\nLead: Jonathan Siegel (Bayer)\nObjective: Subteam that looked into how to embed censoring into the ICH E9 addendum framework. Two papers currently under review, see publications.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJianhong\nPan\nChina\nAsia\n\n\nJun\nWang\nChina\nAsia\n\n\nYuki\nAndo\nJapan\nAsia\n\n\nAyako\nHara\nJapan\nAsia\n\n\nXin\nZhang\nPfizer\nAsia\n\n\nGuei-Feng\nTsai\nTaiwan\nAsia\n\n\nLynda\nGrinsted\nAstraZeneca\nEurope\n\n\nSarwar\nMozumder\nAstraZeneca\nEurope\n\n\nAndreas\nBrandt\nGermany\nEurope\n\n\nStefan\nEnglert\nJ&J\nEurope\n\n\nAnja\nSchiel\nNorway\nEurope\n\n\nHans-Jochen\nWeber\nNovartis\nEurope\n\n\nKaspar\nRufibach\nRoche\nEurope\n\n\nNatalia\nKan-Dobrosky\nAbbvie\nNorAm\n\n\nShoubhik\nMondal\nAstraZeneca\nNorAm\n\n\nJonathan\nSiegel\nBayer\nNorAm\n\n\nCatherine\nNjue\nCanada\nNorAm\n\n\nSteven\nSun\nJ&J\nNorAm\n\n\nJiangxiu\nZhou\nJ&J\nNorAm\n\n\nFeng\nLiu\nMarengo Therapeutics\nNorAm\n\n\nMichelle\nCasey\nMural Oncology\nNorAm"
   },
   {
     "objectID": "subteams.html#hematology",
     "href": "subteams.html#hematology",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Hematology",
     "text": "Hematology\nLead: Evgeny Degtyarev (Novartis)\nObjective: Subteam that looked into estimands for solid tumors. Published paper, see publications.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJianhong\nPan\nChina\nAsia\n\n\nJun\nWang\nChina\nAsia\n\n\nYuki\nAndo\nJapan\nAsia\n\n\nAyako\nHara\nJapan\nAsia\n\n\nGuei-Feng\nTsai\nTaiwan\nAsia\n\n\nMartin-Oliver\nSailer\nBoehringer\nEurope\n\n\nViktoriya\nStalbovskaya\nMerus\nEurope\n\n\nAnja\nSchiel\nNorway\nEurope\n\n\nEvgeny\nDegtyarev\nNovartis\nEurope\n\n\nCatherine\nNjue\nCanada\nNorAm\n\n\nFeng\nLiu\nMarengo Therapeutics\nNorAm\n\n\nRui\nTang\nServier\nNorAm"
   },
   {
     "objectID": "subteams.html#solid-tumors",
     "href": "subteams.html#solid-tumors",
-    "title": "Task forces",
+    "title": "Sub-teams",
     "section": "Solid tumors",
     "text": "Solid tumors\nLead: Steven Sun (J&J)\nObjective: Subteam that looked into estimands in hematology indications. Published paper, see publications.\n\n\n\nFirstname\nLastname\nInstitution\nLocation\n\n\n\n\nJianhong\nPan\nChina\nAsia\n\n\nJun\nWang\nChina\nAsia\n\n\nYuki\nAndo\nJapan\nAsia\n\n\nAyako\nHara\nJapan\nAsia\n\n\nGuei-Feng\nTsai\nTaiwan\nAsia\n\n\nLucy\nDeCosta\nAmgen\nEurope\n\n\nViktoriya\nStalbovskaya\nMerus\nEurope\n\n\nAnja\nSchiel\nNorway\nEurope\n\n\nHans-Jochen\nWeber\nNovartis\nEurope\n\n\nKaspar\nRufibach\nRoche\nEurope\n\n\nCatherine\nNjue\nCanada\nNorAm\n\n\nSteven\nSun\nJ&J\nNorAm\n\n\nSatrajit\nRoychoudhury\nPfizer\nNorAm"
   },
@@ -123,7 +123,7 @@
     "href": "publications.html",
     "title": "Publications of the group",
     "section": "",
-    "text": "Here we list the publications that the group has written or contributed to.\n\nAccepted or published\n\nLawrance, R., Degtyarev, E., Griffiths, P., Trask, P., Lau, H., D’Alessio, D., Griebsch, I., Wallenstein, G., Cocks, K., Rufibach, K. What is an estimand & how does it relate to quantifying the effect of treatment on patient-reported quality of life outcomes in clinical trials (2020). Journal of Patient-Reported Outcomes, 4(1), 68. | doi |\nDegtyarev, E., Rufibach, K., Shentu, Y., Yung, G., Casey, M., Englert, S., Liu, F., Liu, Y., Sailer, O., Siegel, J., Sun, S., Tang, R., Zhou, J. Assessing the impact of COVID-19 on the objective and analysis of oncology clinical trials – application of the estimand framework (2020). Statistics in Biopharmaceutical Research, 12(4), 427-437. | doi | arxiv |\nCasey M., Degtyarev E., Lechuga M.J., Aimone P., Ravaud A., Motzer R., Liu F., Stalbovskaya V., Tang R., Butler E., Sailer O., Halabi S., George D. Estimand framework: Are we asking the right question? A case study in the solid tumor setting (2020). Pharmaceutical Statistics, 20, 324–334. | doi |\nSun, S., Weber, J., Butler, E., Rufibach, K., Roychoudhury, S. Estimands in Hematology Trials (2021). Pharmaceutical Statistics, 20, 793-805. | doi | arxiv | This paper was the 3rd most downloaded paper that appeared in 2021 in Pharmaceutical Statistics.\nBornkamp, B., Rufibach, K., Lin, J., Liu, Y., Mehrotra, D., Roychoudhury, S., Schmidli, H., Shentu, Y., Wolbers, M. Principal Stratum Strategy: Potential Role in Drug Development (2021). Pharmaceutical Statistics, 20, 737-751. | doi | arxiv | github | markdown | This paper was the 4th most downloaded paper that appeared in 2021 in Pharmaceutical Statistics. | Effective statistician podcast |\nManitz, J., Kan-Dobrosky, N., Buchner, H., Casadebaig, M.L., Degtyarev, E., Dey, J., Haddad, V., Fei, J., Martin, E., Mo, M., Rufibach, K., Shentu, Y., Stalbovskaya, V., Tang, R., Yung, G., Zhu, J. Estimands for Overall Survival in Clinical Trials with Treatment Switching in Oncology (2022). Pharmaceutical Statistics, 21, 150-162. | doi | This paper was among the most downloaded papers in the first twelve months following publication among those papers that appeared in 2021 in Pharmaceutical Statistics.\nHampson, L.V., Degtyarev, E., Tang, R., Lin, J., Rufibach, K., Zheng, C. Comment on Biostatistical considerations when using RWD and RWE in clinical studies for regulatory purposes: A landscape assessment (2023). Statistics in Biopharmaceutical Research, 15(1), 23–26. | doi |\nSridhara, R, Barksdale, E., Marchenko, O., Jiang, Q., Ando, Y., Bloomquist, E., Coory, M., Crouse, M., Degtyarev, E., Framke, T., Freidlin, B., Gerber, D.E., Gwise, T., Josephson, F., Hess, L., Kluetz, P., Li, D., Mandrekar, S., Posch, M., Rantell, K., Ratitch, B., Raven, A., Roes, K., Rufibach, K., Sarac, S.B., Simon, R., Singh, H., Theoret, M., Thomson, A., Zuber, E., Shen, Y.L., Pazdur, R. Cancer Clinical Trials Beyond Pandemic: Report of an American Statistical Association Biopharmaceutical Section Open Forum Discussion (2023). Statistics in Biopharmaceutical Research, 15(2), 444–449. | doi |\nRufibach, K., Grinsted, L., Li, J., Weber, H.J., Zheng, C., and Zhou, J. Quantification of Follow-up Time in Oncology Clinical Trials with a Time-to-Event Endpoint: Asking the Right Questions. (2023). Pharmaceutical Statistics, 22(4), 671-691. | doi | arXiv | github | markdown |\nLiu, Y., Yang, M., Kil, S., Li, J., Mondal, S., Shentu, Y., Tian, H., Wang, L., Yung, G. From logic-respecting efficacy estimands to logic-ensuring analysis principle for time-to-event endpoint in randomized clinical trials with subgroups. (2023). Statistics in Biopharmaceutical Research, 15(3), 560–573. | doi |\nEnglert, S., Mercier, F., Pilling, E. A., Homer, V., Habermehl, C., Kan-Dobrosky, N. Defining estimands for efficacy assessment in single arm Phase 1b or Phase 2 clinical trials in oncology early development. (2023+). Pharmaceutical Statistics, 22(5), 921-937. | doi |\nWeber, H. J., Corson, S., Li, J., Mercier, F., Roychoudhury, S., Sailer, M. O., Sun, S., Todd, A., Yung, G. Duration of and time to response in oncology clinical trials from the perspective of the estimand framework. (2023+). Pharmaceutical Statistics, to appear. | arXiv | doi | github | markdown |\nLawrance, R., Skaltsa, K., Regnault, A., Floden, L. Reflections on estimands for patient-reported outcomes in cancer clinical trials. (2023+). Journal of Biopharmaceutical Statistics, to appear. | doi |\nMercier, F., Homer, V., Geng, J., Zhang, H., Englert, S., Kan-Dobrosky, N. Estimands in oncology early clinical development: Assessing the impact of intercurrent events on the dose-toxicity relationship. (2023+). Statistics in Biopharmaceutical Research, to appear. | doi |\nWei, J., Xu, J., Bornkamp, B., Lin, R., Tian, H., Xi, D., Zhang, X., Zhao, Z., Roychoudhury, S. Conditional and Unconditional treatment effects in randomized clinical trials: Estimands, Estimation, and Interpretation. (2023+). Statistics in Biopharmaceutical Research, to appear. | doi |\nSiegel, J.M., Weber, H.J., Englert, S., Liu, F., Casey, M. Time-to-event estimands and loss to follow-up in oncology in light of the estimands framework (2024+). Pharmaceutical Statistics, to appear. | arxiv | doi |.\n\n\n\nSubmitted\n\n\nMozumder, S.I., Grinsted, L., Siegel, J.M., Liu, F., Weber, H., Englert, S. Censoring Assumptions for Time-to-event Endpoints for Oncology Trials in Light of the Estimands Framework. (2024+). Under revision."
+    "text": "Here we list the publications that the group has written or contributed to:\n\nO. N. Keene, H. Lynggaard , S. Englert, V. Lanius, D. Wright. Why Estimands are Needed to Define Treatment Effects in Clinical Trials. BMC Medicine. 21:276 (2023) https://doi.org/10.1186/s12916-023-02969-6\nA. Morga, NR. Latimer, M. Scott, N. Hawkins, M. Schlichting, J. Wang. Is Intention to Treat Still the Gold Standard or Should Health Technology Assessment Agencies Embrace a Broader Estimands Framework?: Insights and Perspectives From NICE and IQWiG on the ICH E9(R1) Addendum. Value Health. 2022 Sep 20:S1098-3015(22)02148-9. https://doi.org/10.1016/j.jval.2022.08.008\nH. Lynggaard, J. Bell, C. Lösch, A. Besseghir, K. Rantell, V. Schoder, V. Lanius. Principles and Recommendations for Incorporating Estimands into Clinical Study Protocol Templates. Trials (2022) https://doi.org/10.1186/s13063-022-06515-2\nC. Fletcher, N. Hefting, M. Wright, J. Bell, J. Anzures-Cabrera, D Wright, H. Lynggaard, A. Schueler. Marking 2-years of new thinking in clinical trials - the estimand journey. Ther Innov Regul Sci 56, 637–650 (2022). https://doi.org/10.1007/s43441-022-00402-3\nO. N. Keene, D. Wright, A. Phillips, M. Wright. Why ITT analysis is not always the answer for estimating treatment effects in clinical trials. Contemporary Clinical Trials. (2021) https://doi.org/10.1016/j.cct.2021.106494"
   },
   {
     "objectID": "history.html",
@@ -144,21 +144,21 @@
     "href": "collaborations.html",
     "title": "Collaborations",
     "section": "",
-    "text": "Membership in scientific organizations\nSee here.\n\n\nCollaboration with Health Authorities\nSee here.\n\n\nEstimand implementation working group\nThe working group closely collaborates with the EFSPI/EFPIA Estimands Implementation WG (EIWG) to implement estimands in drug development by collaborating with non-statistical partner functions. Stefan Englert is a member of both working groups and leads that collaboration.\n\n\nPHUSE\nThe safety taskforce is a formal joint venture between the working group and PHUSE, and the safety taskforce is a formal part of the PHUSE organizational structure, see here. Jonathan Siegel is leading this collaboration.\n\n\nASA LIDS section\nThe censoring mechanism subteam with the ASA LIDS section. Although the oncology estimand WG is as a whole affiliated with the BIOP section, the censoring mechanism subteam had previously established a relationship with the ASA LIDS section. Jonathan Siegel is leading this collaboration.\nThe collaboration continues to bear fruit. For example, the “Time-to-event Estimands in Oncology” session at the upcoming LIDS 2023 conference is a direct result of the collaboration, as is Richard Cook’s periodic involvement in various EOI conference sessions and panels over the years. (Richard will be the discussant for our session at LIDS)."
+    "text": "Mission: The cross-industry working group (oncoestimand.org) was initiated to foster a common understanding and consistent implementation of the estimand framework in oncology clinical trials.\nLiaison: Stefan Englert"
   },
   {
     "objectID": "achievements.html",
     "href": "achievements.html",
     "title": "Oncology estimand working group: achievements per year",
     "section": "",
-    "text": "Achievements 2023\nThe group continues to be an influential player in the global discussion on estimands between industry, regulators, and academia. Key achievements in 2023 are:\n\nGeneral activities listed as achievements in last years below are continued by the group.\nSeven publications of the SIG appeared or have been submitted this year (numbers 9-15 in publication list). In total, (at least) 15 published papers and numerous talks meanwhile come out of this group.\nThe SIG gave many talks and organized sessions at conferences and webinars, see events. Some highlights:\n\nJonathan gave an invited talk at the Duke industry statistics symposium 2023.\nCo-organized and contributed to a BBS seminar on Quantification of risk: ask the right questions or time to apply the estimand framework to safety!\nOrganized two sessions at the LIDS 2023 conference in Raleigh.\nAn entire session organized by the SIG at the PSI 2023 conference in London. Hong Tian, Konstantina Skaltsa, Stefan Englert, Lynda Grinsted, Elizabeth Pilling, and Yufei Wang presented outcomes from various taskforces to a completely full room.\nInvited talk and pre-conference course on “Causal Inference in Randomized Controlled Trials” at JSM in Toronto.\nPanel discussion at ASA Biopharmaceutical Section Regulatory Industry Statistics Workshop.\nStefan and Francois contributed talks to a BBS seminar on Estimands in Early Development (ED) across Therapeutic Areas.\nKaspar was invited to present in an FDA / Lungevity TC within Project significant on Impact of Cross-over in the Evaluation of Overall Survival in cancer RCTs, find slides here.\nEvgeny was invited for a plenary talk at the Nordic lymphoma meeting. It is great to see the rising interest in estimands also in the clinical community! Find slides here.\nStefan contributed a talk to the yearly APF workshop.\n\nAs a spin-off of our WG, a few colleagues from the PRO task force submitted a proposal to EFSPI for a special interest group. We except to start this very soon under the formal EFSPI umbrella.\nAs of December 2023, the SIG has 101 members (36 from Europe, 55 from US, and 10 from Asia) representing 50 companies / institutions, see status.\n\n\n\nAchievements 2022\nThe group continues to be an influential player in the global discussion on estimands between industry, regulators, and academia. Key achievements in 2022 are:\n\nGeneral activities listed as achievements in last years below are continued by the group.\nSeveral publications of the SIG appeared or have been submitted this year.\nTwo SIG papers published in 2021 were among the five most downloaded in Pharmaceutical statistics in 2021, see publications.\nThe SIG gave many talks and organized sessions at conferences and webinars, see events. Some highlights:\n\nAn entire session organized by the SIG at the PSI conference.\nThe SIG organized two sessions at the ASA FDA workshop (“Adjusted and Unadjusted Estimate in Clinical Trials: Reward, Risk and Myth” and “Estimands in Oncology: A Topical Panel Discussion”), see events page.\nDIA held a webinar in China, with a talk by Jiajun Xu from the conditional and marginal effect force. With a peak attendance of 4460 colleagues this likely sets a new record for a talk by this WG!\nTogether with ASA NJ chapter the WG co-organized a webinar ASA New Jersey Chapter Webinar Series: Getting the question right: Applying the Estimand and Target Trial Frameworks with External Controls.\n\nOn June 28th & 29th we had two full group TCs with regulators attending where we presented our work. Slidedecks are available here.\neunethta is currently seeking comments for their set of guidelines for a joint clinical assessment of European HTA bodies. Several of the WG’s papers were cited in EFPIA’s response to deliverable 4.5.\nAs of November 2022, the SIG has 97 members (36 from Europe, 50 from US, and 10 from Asia) representing 48 companies / institutions, see status.\n\n\n\nAchievements 2021\nThe group has evolved into a global network of statisticians in industry and regulatory agencies that continues to contribute to the implementation of the ICH E9 addendum. Key achievements are:\n\nSeveral publications of the SIG appeared this year.\nThe SIG has built a network of individuals with expertise and credibility in the broader biostatistical and drug development community. Testament to that is the fact that SIG members are regularly invited to review and comment on scientific publications in the field.\nInvited by the EFSPI/EFPIA estimands implementation working group the SIG organized two webinars targeted at a broad audience of Clinicians, Investigators, Regulatory Experts, Medical Writers, Ethics Committees, Statisticians:\n\nPSI EIWG Webinars (2 events, one for EU and one for US): Estimands in Oncology - How and Why.\nThe WG also organized a DIA Webinar with the same target audience, including FDA discussants.\n\nOur SIG is also formally represented in the EFSPI/EFPIA estimands implementation working group.\nThe SIG organized sessions and was invited to speak at conferences (Duke Industry Statistics Symposium, Society for clinicial trials, JSM, ASA-FDA workshop, ISOQoL). Further talks were given at several occasions.\nMembers of the SIG were also invited to FDA OCE Project Significant TCs to talk about application of estimands to decentralized trials and comment on non-proportional hazards.\nAs a higlight of 2021 nine task forces were kicked off who have started their work on new topics relevant to the implementation of the addendum, and applying the addendum to extended areas such as, e.g., real-worl data. Find them all, including rosters and objectives, here.\nAs of November 2021, the SIG has has 77 members (30 from Europe, 38 from US, and 9 from Asia) representing 36 companies / institutions, see status.\nAs an outlook in 2022 we plan to organize webinars reporting on the content that the task forces have generated so far. One goal is also to broaden our outreach and present not only at statistical but also at clinical conferences. We also plan to get involved with our Health Authority partners again.\n\n\n\nAchievements 2020\nDespite the many challenges in 2020 the SIG was able to relevantly contribute to the implementation of the estimand addendum in drug development in oncology and beyond. Key achievements are:\n\nThe intercontinental team spirit that allowed to come up with a rapid response to COVID-19 pandemic: a slidedeck discussing the impact of the pandemic on a trial’s estimand was published on the webpage less than five weeks after WHO declared the pandemic. A paper followed only a few weeks later.\nSeveral publications of the SIG were published this year, and several more are in their last rounds of revision.\nThe SIG organized two webinars that brought together drug developers, academics, and regulators to discuss topics around estimands in oncology and beyond:\n\nEstimands addendum is final: Anything new for oncology?: The highlight here was that several clinical colleagues contributed as presenters and panelists.\nRCTs meeting causal inference: principal stratum strategy and beyond.\n\nThe SIG organized sessions and was invited to speak at virtual US conferences (JSM, ASA-FDA workshop, Deming conference on applied statistics). Further talks were given at several occasions.\nThe SIG organized TCs with seven Health Authorities (FDA, HC, Swissmedic, China, Japan, Taiwan, MHRA) to share its work and get input on future directions.\nSet up a webpage (www.oncoestimand.org) to foster sharing of information and generated content such as presentations and publications. As of today, the SIG has 54 members (20 from Europe, 29 from US, and 5 from Asia) representing 28 companies. Currently the SIG is regrouping in task forces dedicated to eight topics that are considered relevant to develop implementation of the addendum further in oncology clinical trials. So expect more output in 2021!\n\n\n\nAchievements 2019\nThe WG created a platform for sharing experience and ensuring common understanding of estimands in oncology trials across industry and continues to grow both in terms of members and companies. The discussions within the WG advanced in all subteams and several manuscripts are under preparation. As planned, the initial content was disseminated in 2019 via several statistical conferences in Europe and US. One publication was submitted in 2019 and several submissions are planned in 2020. The WG engaged with the Clinical community and submitted abstracts to several Clinical conferences in collaboration with key opinion leaders and industry clinicians, a poster was presented at ESMO. Similarly, the collaboration with Health Authorities is ongoing and expected to continue over several years. Furthermore, the SWG also had some initial discussions with academia statisticians on potential topics for collaboration in future.\nThe WG highlighted various estimand problems in Oncology and shared the view of the SWG in many presentations at conferences in Europe and US and in collaboration with EMA and FDA:\n\ninvited talk at HTA EFSPI SIG 1-day event (Berlin, February 2019)\nsession (4 talks) at DAGStat (Munich, March 2019)\nsession (3 talks by WG members and EMA discussant) at LiDS conference (Pittsburgh, June 2019)\n2 talks at PSI conference (London, June 2019)\n1 talk at DIA Annual meeting (San Diego, June 2019)\n1 talk at ISCB conference (Leuven, July 2019)\nsession (4 talks and FDA discussant) at JSM (Denver, July 2019)\ntalk at EFSPI regulatory (Basel, September 2019)\nsession (3 talks) and invited to participate in a panel discussion at ASA Biopharmaceutical Section Regulatory-Industry Statistics Workshop (September 2019)\ntalk at ISOQoL conference (San Diego, October 2019)\nPoster on estimands in adjuvant renal cell carcinoma in collaboration with key opinion leaders and industry clinicians at ESMO (September 2019)"
+    "text": "PSI 2023 presentation\nPreparation of paper on estimands in non-inferiority trials\nPreparation of PSI 2024 proposal including a panel of regulators\n\n\n\n\n\nOrganized the webinar “Proposing Estimands from Different Perspectives”, which showed a case study in heart failure presented by the perspective of multiple stakeholders (patient, clinician, regulator, health technology assessor and statistician). The webinar had a record of more than 800 people registered to attend. (March 2023)\n\n\n\n\n\nParticipated in APBG Estimands Webinar\nPreparation of PSI 2024 proposal on estimand thinking and statistical leadership\n\n\n\n\n\nPreparation of manuscript on treatment policy estimation\n\n\n\n\n\nAgreed to collaborate with NIH on trial disclosure and estimands\nInvited presentation at JSM 2023 by Melanie Wright “Realizing the benefits of estimands to increase transparency in the reporting and communication of trial results”\nPreparation of manuscript on the reporting of estimands and intercurrent events in clinical study reports\n\n\n\n\n\nNewly formed to tackle uncertainty around the meaning of different intercurrent event strategies, which is a major barrier to effective implementation of the estimands framework\nIdentified several key areas of uncertainty to target in 2024\n\n\n\n\n\nSubmitted and received referee comments on paper “Tutorial on How Estimands can be Applied to Bioequivalence and Related Clinical Pharmacology Trials”. (Hope for open access in 2024).\nPresented to PSI conference (linked to above bioequivalence topic) “Does it Make Sense to Apply the Estimand Framework to Clinical Pharmacology Trials”. June 2023\nReviewed and submitted comments for FDA draft guidance : Statistical Approaches to Establishing Bioequivalence (December 2022)\nKnowledge sharing and discussion on a number of topics.\n\n\n\n\n\nAntonia Morga and Pepa Polavieja presented on behalf of the group on “The ICH E9(R1) Addendum in the context of Health Technology Assessments: methodological considerations and recommendations” at an Estimand session during the PSI conference in London (June 2023)\nThe group presented a poster at ISPOR Europe (November 2023) titled: “Estimands in Health Technology Assessments: methodological considerations and recommendations”"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Oncology estimand working group",
+    "title": "Estimands Implementation Working Group (EIWG)",
     "section": "",
-    "text": "Purpose\nFind on this webpage information on the working group on estimands in oncology.\n\n\nBecome a member\nThe general spirit of the working group is inclusive. If you’d like to contribute in one or the other way, we propose you first reach out to your company’s representative(s) (if applicable) and align within your company who is best placed to contribute to which task force. After that is clarified reach out to the WG leads - contact details available here.\n\n\nMembership in professional organizations\nIn November 2018, the working group was established by EFSPI as European special interest group “Estimands in oncology”, sponsored by PSI and EFSPI and in June 2019 the ASA biopharmaceutical section has granted the official status as ASA scientific working group.\n\n\nLinks to this page\n\nLink to this page: http://www.oncoestimand.org.\nGithub repo: https://github.com/oncoestimand"
+    "text": "Find on this webpage information on the Estimands Implementation Working Group (EIWG)."
   },
   {
     "objectID": "code.html",
@@ -177,23 +177,23 @@
   {
     "objectID": "trainings.html",
     "href": "trainings.html",
-    "title": "Interactions with Health Authorities and the ICH E9(R1) working group",
+    "title": "Estimand Trainings",
     "section": "",
-    "text": "We are grateful for ongoing collaboration and regular dialogue to statisticians from European Medicines Agency (EMA), Medicines and Healthcare products Regulatory Agency (MHRA, UK), U.S. Food and Drug Administration (FDA), Pharmaceuticals and Medical Devices Agency (PMDA, Japan), Health Canada, Swissmedic, National Medical Products Administration (NMPA, China) and Center for Drug Evaluation (CDE, Taiwan).\nBelow you find the summaries of material presented at regular meetings with these stakeholders.\n\n\n\n\n\nDate\nAudience\nMaterial\n\n\n\n\n2020/09\nFull group + regulators\nSlidedecks and/or written updates\n\n\n2022/06\nFull group + regulators\nSlidedecks and/or written updates\n\n\n\n\n\nWe also thank Keaven Anderson (Merck) and Frank Bretz (Novartis) for their support."
+    "text": "Targeted to anyone working in clinical trials: Clinician, Regulator, Investigator, Academic, Ethics Committee, HTA Agencies, Statistician.\nAll trainings are freely available as ‘Video-on-Demand’\n\nPortal: PSI VOD Platform or YouTube on the EFPIA channel\nCollection: The Estimands Academy for Trial Teams\n\nBelow you find the summaries of training organized by EIWG:\n\n\n\n\n\nDate\nAudience\nMaterial\n\n\n\n\n2020/09\nFull group + regulators\nSlidedecks and/or written updates\n\n\n2022/06\nFull group + regulators\nSlidedecks and/or written updates"
   },
   {
     "objectID": "organization.html",
     "href": "organization.html",
     "title": "Organization",
     "section": "",
-    "text": "Leads\nEvgeny Degtyarev from Novartis and Kaspar Rufibach from Roche, both located in Basel, Switzerland. Their email addresses are generic firstname.lastname@employer.com.\n\n\nTask forces and members\nAfter a first phase where five subteams have written several publications (see below) the working group now operates within seven task forces. Objectives and member rosters of these task forces are available here.\n\n\nActivities\nBeyond work in the task forces, the aim of the working group is to provide answers to the above questions through a variety of activities. These will include:\n\nCollaborating with experts to refine and possibly extend available methods.\nPublishing reviews of the available methods, case studies, and white papers with recommendations, for statisticians and non-statisticians.\nInteracting with regulators and the broader clinical community to obtain a better understanding of their requirements. Work with them to agree on common definitions of estimands in oncology.\nProviding trainings, workshops and talks.\nPromoting good practice through templates for study protocols and statistical analysis plans."
+    "text": "Chrissie Fletcher from GSK, Amel Besseghir from Fresenius Kabi and Nanco Hefting from Lundbeck"
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Further resources",
     "section": "",
-    "text": "EFSPI/PSI SIG on Estimands in Neuroscience.\nEFSPI/EFPIA Estimands Implementation WG (EIWG).\nInternational Society for Quality of Life Research (ISOQOL) statistics SIG: this SIG also has a workstream that works on estimands for PRO."
+    "text": "Oncology estimand working group.\nEFSPI/PSI SIG on Estimands in Neuroscience.\nInternational Society for Quality of Life Research (ISOQOL) statistics SIG: this SIG also has a workstream that works on estimands for PRO."
   },
   {
     "objectID": "resources.html#what-is-an-estimand",
@@ -207,13 +207,160 @@
     "href": "resources.html#where-should-i-start",
     "title": "Further resources",
     "section": "Where should I start?",
-    "text": "Where should I start?\nThis entire page is a starting point. Further,\n\n3min intro video: What is an estimand in a clinical trial: The PIONEER 1 example, based on Aroda et al. (2019).\n3min intro video: Why the addendum is needed and what it is about (Kaspar Rufibach).\nPSI EIWG Webinar: Estimands in Oncology - How and Why: Members of the WG describe how the estimand framework provides a common language to describe the diversity of patient journeys and why it is important to address the right question in clinical trials.\nPSI EIWG Webinar: PIONEERing estimands in Clinical Research: Introductory webinar that is intended for anyone working in clinical trials: Clinicians, Regulators, Investigators, Academics, Ethics Committees, Statisticians.\nIntroductory session on endpoints and estimands for clinicians, co-organized by ANVISA (Brazilian Health Authority) and interfarma.\nRelevant publications that are to a large extent non-statistical and are a good starting point as well:\n\nDegtyarev et al. (2019): Example of putting the addendum into action in oncology, appeared in JCO.\nAroda et al. (2019): Example of putting a continuous endpiont in the estimand framework. Pre-addendum (treatment attribute is missing), but still informative.\nSun et al. (2021): Illustrates implementation of the framework in hematology.\nCasey et al. (2021): Illustrates implementation of the framework in solid tumors.\nLawrance et al. (2020): Illustrates implementation of the framework for a PRO endpoint.\nLynggaard et al. (2022): Recommendations how to implement estimands in protocol templates.\nIonan et al. (2022): Joint paper by FDA and industry authors summarizing the (positive!) experiences with implementing the estimands framework, especially discussing FDA experience. See also this linkedin article for a brief summary.\n\n\nSee also the publications tab."
+    "text": "Where should I start?\nThe trainings page is a great starting point. Further, 3min intro video: What is an estimand in a clinical trial: The PIONEER 1 example, based on Aroda et al. [ -@aroda_19].\nSee also the publications tab."
   },
   {
     "objectID": "status.html",
     "href": "status.html",
     "title": "Status",
     "section": "",
-    "text": "As of 01 Juni 2024, the working group\n\nhas 101 members (36 from Europe, 55 from US, and 10 from Asia) representing 50 companies / institutions,\nregularly interacts with eight Health Authorities globally,\nregularly organizes sessions and presents at conferences,\nhas started to interact with academic colleagues."
+    "text": "As of 11 Juni 2024, the working group\n\nhas 101 members representing 50 companies / institutions,\nregularly organizes sessions and presents at conferences,\nhas started to interact with partner organizations."
+  },
+  {
+    "objectID": "charter.html",
+    "href": "charter.html",
+    "title": "Charter & Purpose",
+    "section": "",
+    "text": "To provide a cross-industry forum to:\n\nshare Industry and Academic experiences of implementing the new estimand framework introduced in ICH E9(R1)\ndiscuss issues emerging through implementation\nbe champions and engage in scientific discussion about the value and benefits of the framework\n\nWith the aim to:\n\ngive feedback and recommendations for best practices\npromote broad understanding and awareness of the framework within and outside of statistics\nconsolidate issues and topics for discussion with the ICH E9 Implementation Working Group\nprovide training through case studies, e.g., through the EIWG Estimand Training Academy"
+  },
+  {
+    "objectID": "index.html#purpose",
+    "href": "index.html#purpose",
+    "title": "Estimands Implementation Working Group (EIWG)",
+    "section": "",
+    "text": "Find on this webpage information on the Estimands Implementation Working Group (EIWG)."
+  },
+  {
+    "objectID": "index.html#become-a-member",
+    "href": "index.html#become-a-member",
+    "title": "Estimands Implementation Working Group (EIWG)",
+    "section": "Become a member",
+    "text": "Become a member\nThe general spirit of the working group is inclusive. If you’d like to contribute in one or the other way, we propose you first reach out to your company’s representative(s) (if applicable) and align within your company who is best placed to contribute to which sub-team. After that is clarified reach out to the leads - contact details available here."
+  },
+  {
+    "objectID": "index.html#connection-to-professional-organizations",
+    "href": "index.html#connection-to-professional-organizations",
+    "title": "Estimands Implementation Working Group (EIWG)",
+    "section": "Connection to professional organizations",
+    "text": "Connection to professional organizations\nThe working group was established by EFPIA and EFSPI as one of three EFSPI working groups."
+  },
+  {
+    "objectID": "index.html#links-to-this-page",
+    "href": "index.html#links-to-this-page",
+    "title": "Estimands Implementation Working Group (EIWG)",
+    "section": "Links to this page",
+    "text": "Links to this page\n\nLink to this page: https://eiwg.github.io/eiwg_webpage/.\nGithub repo: https://github.com/eiwg/eiwg_webpage\n\nSpecial thanks to Kaspar Rufibach, who has provided the template for this homepage."
+  },
+  {
+    "objectID": "charter.html#eiwg-brings-together-statisticians-and-clinicians-to-support-the-estimand-journey",
+    "href": "charter.html#eiwg-brings-together-statisticians-and-clinicians-to-support-the-estimand-journey",
+    "title": "Charter & Purpose",
+    "section": "",
+    "text": "To provide a cross-industry forum to:\n\nshare Industry and Academic experiences of implementing the new estimand framework introduced in ICH E9(R1)\ndiscuss issues emerging through implementation\nbe champions and engage in scientific discussion about the value and benefits of the framework\n\nWith the aim to:\n\ngive feedback and recommendations for best practices\npromote broad understanding and awareness of the framework within and outside of statistics\nconsolidate issues and topics for discussion with the ICH E9 Implementation Working Group\nprovide training through case studies, e.g., through the EIWG Estimand Training Academy"
+  },
+  {
+    "objectID": "organization.html#leads",
+    "href": "organization.html#leads",
+    "title": "Organization",
+    "section": "",
+    "text": "Chrissie Fletcher from GSK, Amel Besseghir from Fresenius Kabi and Nanco Hefting from Lundbeck"
+  },
+  {
+    "objectID": "organization.html#communication-lead",
+    "href": "organization.html#communication-lead",
+    "title": "Organization",
+    "section": "Communication Lead",
+    "text": "Communication Lead\nStefan Englert from J&J."
+  },
+  {
+    "objectID": "organization.html#task-forces-and-members",
+    "href": "organization.html#task-forces-and-members",
+    "title": "Organization",
+    "section": "Task forces and members",
+    "text": "Task forces and members\nThe working group operates within eight sub-teams. Objectives and member rosters of these sub-teams are available here."
+  },
+  {
+    "objectID": "organization.html#activities",
+    "href": "organization.html#activities",
+    "title": "Organization",
+    "section": "Activities",
+    "text": "Activities\nBeyond work in the subteams, the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include:\n\nCollaborating with experts to refine and possibly extend implementation.\nPublishing reviews, case studies, and white papers with recommendations, for statisticians and non-statisticians.\nInteracting with clinicians, regulators and the broader clinical community to obtain a better understanding of their requirements.\nProviding trainings, workshops and talks."
+  },
+  {
+    "objectID": "collaborations.html#european-special-interest-group-estimands-in-oncology-sponsored-by-psi-and-efspi-and-asa-scientific-working-group-of-the-asa-biopharmaceutical-section",
+    "href": "collaborations.html#european-special-interest-group-estimands-in-oncology-sponsored-by-psi-and-efspi-and-asa-scientific-working-group-of-the-asa-biopharmaceutical-section",
+    "title": "Collaborations",
+    "section": "",
+    "text": "Mission: The cross-industry working group (oncoestimand.org) was initiated to foster a common understanding and consistent implementation of the estimand framework in oncology clinical trials.\nLiaison: Stefan Englert"
+  },
+  {
+    "objectID": "collaborations.html#phuse",
+    "href": "collaborations.html#phuse",
+    "title": "Collaborations",
+    "section": "PhUSE",
+    "text": "PhUSE\n\nMission: Sharing ideas, tools and standards around data, statistical and reporting technologies to advance the future of life sciences.\nLiaison: Armin Schueler"
+  },
+  {
+    "objectID": "collaborations.html#transcelerate",
+    "href": "collaborations.html#transcelerate",
+    "title": "Collaborations",
+    "section": "TransCelerate",
+    "text": "TransCelerate\n\nMission: TransCelerate BioPharma’s mission is to collaborate across the global biopharmaceutical research and development community to identify, prioritize, design, and facilitate the implementation of solutions designed to drive the efficient, effective and high-quality delivery of new medicines.\nLiaison: Pepa Polavieja and Helle Lynggaard"
+  },
+  {
+    "objectID": "achievements.html#achievements-2022",
+    "href": "achievements.html#achievements-2022",
+    "title": "Oncology estimand working group: achievements per year",
+    "section": "Achievements 2022",
+    "text": "Achievements 2022\n\nTraining sub-team\nThe training committee has continued to work on webinars for their training series ‘EIWG Estimand Training Academy’ targeting anyone working in clinical trials.\nAll trainings provided so far are freely available as ‘Video-on-Demand’ PSI Portal or YouTube on the EFPIA channel\n\n\nEstimation sub-team\nEstimating the treatment-policy strategy with continuous data and incomplete post-IE follow-up is a relevant and under-researched issue. To address it, the group has assessed the performance of different estimators – based on either multiple imputation (MI) or mixed effect models (MMRM) – for simulated trials based on the HbA1c endpoint from the PIONEER1 study. The properties of the estimators (bias and variance shown here) generally confirm the equivalence of MI and MMRM approaches (if the same assumptions are made) and the particular importance of collecting post-IE data. The complex trade-off between variance inflation and accuracy needs to be carefully evaluated further.\n\n\nEarly Phase & Other Studies sub-team\nThis sub-team was created as a forum for both statisticians (industry & academia) and pharmacokinetics as well as regulators to help bridge the gap in the estimands framework with regards other study types including early phase and clinical pharmacology where the purpose is not confirmatory efficacy. We presented a poster (Does the Estimand Framework Add Value to Clinical Pharmacology Trials?) at the PSI conference 2022. A manuscript is under preparation with focus on bioequivalence/bioavailability studies and is planned to be published in a clinical pharmacology journal in 2023. The implementation of estimands in early phase studies (including dose finding and CRMs) are also being discussed within this workstream. We aim to share some of our work at the PSI conference in 2023.\n\n\nCommunications sub-team\nIn 2022 the homepage of the group was fully revised and summarizes all work of the EIWG. Posters of the working group were presented at the 2022 PSI conference in Gothenburg and the 2022 Regulatory Industry workshop in Basel.\n\n\nEstimands in non-inferiority trials sub-team\nThe ICH E9(R1) includes limited guidance in relation to non-inferiority (NI) trials. Current regulatory guidelines on NI trials predate the release of the addendum and the per protocol analysis set plays an important part in the EMA NI guidelines. In contrast, ICH E9(R1) questions the role of the per protocol set and this has led to confusion as regards to the applicability of the EMA Points to consider on switching between superiority and non-inferiority. The sub-team is discussing which estimands can be considered relevant in an NI setting and how they fit into existing guidelines. The sub-team members are sharing recent regulatory feedback on NI trials, and we are discussing questions such as - What is the underlying clinical question to be answered in an NI trial? - Are two estimands with different strategies for intercurrent events required to reflect the spirit in the EMA Points to consider on switching between superiority and non-inferiority? - Can protocol violations be handled as intercurrent events? Is there any remaining role for a Per Protocol analysis set? - Can different estimands be used to show NI and superiority in the same trial (hierarchical set-up)? - How does the estimand framework impact the choice of the NI margin?"
+  },
+  {
+    "objectID": "achievements.html#estimation-sub-team",
+    "href": "achievements.html#estimation-sub-team",
+    "title": "Oncology estimand working group: achievements per year",
+    "section": "Estimation sub-team",
+    "text": "Estimation sub-team\nEstimating the treatment-policy strategy with continuous data and incomplete post-IE follow-up is a relevant and under-researched issue. To address it, the group has assessed the performance of different estimators – based on either multiple imputation (MI) or mixed effect models (MMRM) – for simulated trials based on the HbA1c endpoint from the PIONEER1 study. The properties of the estimators (bias and variance shown here) generally confirm the equivalence of MI and MMRM approaches (if the same assumptions are made) and the particular importance of collecting post-IE data. The complex trade-off between variance inflation and accuracy needs to be carefully evaluated further.\n\nEarly Phase & Other Studies sub-team\nThis sub-team was created as a forum for both statisticians (industry & academia) and pharmacokinetics as well as regulators to help bridge the gap in the estimands framework with regards other study types including early phase and clinical pharmacology where the purpose is not confirmatory efficacy. We presented a poster (Does the Estimand Framework Add Value to Clinical Pharmacology Trials?) at the PSI conference 2022. A manuscript is under preparation with focus on bioequivalence/bioavailability studies and is planned to be published in a clinical pharmacology journal in 2023. The implementation of estimands in early phase studies (including dose finding and CRMs) are also being discussed within this workstream. We aim to share some of our work at the PSI conference in 2023.\n\n\nCommunications sub-team\nIn 2022 the homepage of the group was fully revised and summarizes all work of the EIWG. Posters of the working group were presented at the 2022 PSI conference in Gothenburg and the 2022 Regulatory Industry workshop in Basel.\n\n\nEstimands in non-inferiority trials sub-team\nThe ICH E9(R1) includes limited guidance in relation to non-inferiority (NI) trials. Current regulatory guidelines on NI trials predate the release of the addendum and the per protocol analysis set plays an important part in the EMA NI guidelines. In contrast, ICH E9(R1) questions the role of the per protocol set and this has led to confusion as regards to the applicability of the EMA Points to consider on switching between superiority and non-inferiority. The sub-team is discussing which estimands can be considered relevant in an NI setting and how they fit into existing guidelines. The sub-team members are sharing recent regulatory feedback on NI trials, and we are discussing questions such as - What is the underlying clinical question to be answered in an NI trial? - Are two estimands with different strategies for intercurrent events required to reflect the spirit in the EMA Points to consider on switching between superiority and non-inferiority? - Can protocol violations be handled as intercurrent events? Is there any remaining role for a Per Protocol analysis set? - Can different estimands be used to show NI and superiority in the same trial (hierarchical set-up)? - How does the estimand framework impact the choice of the NI margin?"
+  },
+  {
+    "objectID": "achievements.html#achievements-2023",
+    "href": "achievements.html#achievements-2023",
+    "title": "Oncology estimand working group: achievements per year",
+    "section": "",
+    "text": "PSI 2023 presentation\nPreparation of paper on estimands in non-inferiority trials\nPreparation of PSI 2024 proposal including a panel of regulators\n\n\n\n\n\nOrganized the webinar “Proposing Estimands from Different Perspectives”, which showed a case study in heart failure presented by the perspective of multiple stakeholders (patient, clinician, regulator, health technology assessor and statistician). The webinar had a record of more than 800 people registered to attend. (March 2023)\n\n\n\n\n\nParticipated in APBG Estimands Webinar\nPreparation of PSI 2024 proposal on estimand thinking and statistical leadership\n\n\n\n\n\nPreparation of manuscript on treatment policy estimation\n\n\n\n\n\nAgreed to collaborate with NIH on trial disclosure and estimands\nInvited presentation at JSM 2023 by Melanie Wright “Realizing the benefits of estimands to increase transparency in the reporting and communication of trial results”\nPreparation of manuscript on the reporting of estimands and intercurrent events in clinical study reports\n\n\n\n\n\nNewly formed to tackle uncertainty around the meaning of different intercurrent event strategies, which is a major barrier to effective implementation of the estimands framework\nIdentified several key areas of uncertainty to target in 2024\n\n\n\n\n\nSubmitted and received referee comments on paper “Tutorial on How Estimands can be Applied to Bioequivalence and Related Clinical Pharmacology Trials”. (Hope for open access in 2024).\nPresented to PSI conference (linked to above bioequivalence topic) “Does it Make Sense to Apply the Estimand Framework to Clinical Pharmacology Trials”. June 2023\nReviewed and submitted comments for FDA draft guidance : Statistical Approaches to Establishing Bioequivalence (December 2022)\nKnowledge sharing and discussion on a number of topics.\n\n\n\n\n\nAntonia Morga and Pepa Polavieja presented on behalf of the group on “The ICH E9(R1) Addendum in the context of Health Technology Assessments: methodological considerations and recommendations” at an Estimand session during the PSI conference in London (June 2023)\nThe group presented a poster at ISPOR Europe (November 2023) titled: “Estimands in Health Technology Assessments: methodological considerations and recommendations”"
+  },
+  {
+    "objectID": "resources.html#other-estimand-working-groups",
+    "href": "resources.html#other-estimand-working-groups",
+    "title": "Further resources",
+    "section": "",
+    "text": "Oncology estimand working group.\nEFSPI/PSI SIG on Estimands in Neuroscience.\nInternational Society for Quality of Life Research (ISOQOL) statistics SIG: this SIG also has a workstream that works on estimands for PRO."
+  },
+  {
+    "objectID": "resources.html#i-have-never-heard-of-estimands---where-should-i-start",
+    "href": "resources.html#i-have-never-heard-of-estimands---where-should-i-start",
+    "title": "Further resources",
+    "section": "I have never heard of estimands - where should I start?",
+    "text": "I have never heard of estimands - where should I start?\n\nWhat is an estimand?\nFrom the glossary of the ICH E9: estimands addendum:\nA precise description of the treatment effect reflecting the clinical question posed by the trial objective. It summarises at a population-level what the outcomes would be in the same patients under different treatment conditions being compared.\n\n\nWhere should I start?\nThe trainings page is a great starting point. Further, this 3min intro video: What is an estimand in a clinical trial: The PIONEER 1 example.\nSee also the publications tab."
+  },
+  {
+    "objectID": "estimand.html",
+    "href": "estimand.html",
+    "title": "What is an estimand?",
+    "section": "",
+    "text": "From the glossary of the ICH E9: estimands addendum:\nA precise description of the treatment effect reflecting the clinical question posed by the trial objective. It summarises at a population-level what the outcomes would be in the same patients under different treatment conditions being compared."
+  },
+  {
+    "objectID": "estimand.html#what-is-an-estimand",
+    "href": "estimand.html#what-is-an-estimand",
+    "title": "What is an estimand?",
+    "section": "",
+    "text": "From the glossary of the ICH E9: estimands addendum:\nA precise description of the treatment effect reflecting the clinical question posed by the trial objective. It summarises at a population-level what the outcomes would be in the same patients under different treatment conditions being compared."
+  },
+  {
+    "objectID": "estimand.html#where-should-i-start",
+    "href": "estimand.html#where-should-i-start",
+    "title": "What is an estimand?",
+    "section": "Where should I start?",
+    "text": "Where should I start?\nThe trainings page is a starting point. Further, a 3min intro video: What is an estimand in a clinical trial: The PIONEER 1 example.\nSee also the publications page."
   }
 ]

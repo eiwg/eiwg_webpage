@@ -1,5 +1,5 @@
 ---
-title: "Oncology estimand working group"
+title: "Estimands Implementation Working Group (EIWG)"
 date: last-modified
 execute:   
   freeze: auto  # re-render only when source changes
@@ -11,23 +11,26 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
-bibliography: biblio.bib
 ---
 
-# Purpose
+## Purpose
 
-Find on this webpage information on the working group on estimands in oncology.
+Find on this webpage information on the Estimands Implementation Working Group (EIWG).
 
-# Become a member
+## Become a member
 
-The general spirit of the working group is inclusive. If you'd like to contribute in one or the other way, we propose you first reach out to your company's representative(s) (if applicable) and align within your company who is best placed to contribute to which task force. After that is clarified reach out to the WG leads - contact details available [here](organization.html).
+The general spirit of the working group is inclusive. If you'd like to contribute in one or the other way, we propose you first reach out to your company's representative(s) (if applicable) and align within your company who is best placed to contribute to which sub-team. After that is clarified reach out to the leads - contact details available [here](organization.html).
 
-# Membership in professional organizations
+## Connection to professional organizations
 
-In November 2018, the working group was established by [EFSPI](https://www.efspi.org) as [*European special interest group "Estimands in oncology", sponsored by PSI and EFSPI*](https://efspi.org/EFSPI/SIGS/EFSPI/Special_Interest_Groups/Special_Interest_Groups.aspx?hkey=4ba906dc-003a-4b71-b14b-7ea694a9b445) and in June 2019 the [*ASA biopharmaceutical section*](https://community.amstat.org/biop/home) has granted the official status as [ASA scientific working group](https://community.amstat.org/biop/workinggroups/eio).
+The working group was established by [EFPIA](https://efpia.eu/) and [EFSPI](https://www.efspi.org) as one of three [EFSPI working groups](https://www.efspi.org/EFSPI/About_EFSPI/Working_Groups.aspx).
 
-# Links to this page
+![](data/EFPIA.png)
+![](data/EFSPI.png)
 
-- Link to this page: <http://www.oncoestimand.org>.
-- Github repo: <https://github.com/oncoestimand>
+## Links to this page
 
+- Link to this page: <https://eiwg.github.io/eiwg_webpage/>.
+- Github repo: <https://github.com/eiwg/eiwg_webpage>
+
+Special thanks to [Kaspar Rufibach](http://www.kasparrufibach.ch/), who has provided the template for this homepage.

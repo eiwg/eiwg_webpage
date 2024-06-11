@@ -1,0 +1,26 @@
+---
+title: "Charter & Purpose"
+date: last-modified
+execute:   
+  freeze: auto  # re-render only when source changes
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: yes
+    self_contained: yes
+---
+
+## EIWG brings together statisticians and clinicians to support the estimand journey
+
+**To provide a cross-industry forum to:**
+
+- share Industry and Academic experiences of implementing the new estimand framework introduced in ICH E9(R1)
+- discuss issues emerging through implementation
+- be champions and engage in scientific discussion about the value and benefits of the framework
+
+**With the aim to:**
+
+- give feedback and recommendations for best practices
+- promote broad understanding and awareness of the framework within and outside of statistics
+- consolidate issues and topics for discussion with the ICH E9 Implementation Working Group
+- provide training through case studies, e.g., through the EIWG Estimand Training Academy

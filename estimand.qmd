@@ -1,0 +1,26 @@
+---
+title: "What is an estimand?"
+date: last-modified
+execute:   
+  freeze: auto  # re-render only when source changes
+output: 
+  rmarkdown::html_document:
+    highlight: pygments
+    number_sections: yes
+    self_contained: yes
+    toc: yes
+    toc_depth: 3
+    toc_float: yes
+---
+
+## What is an estimand?
+
+From the glossary of the [ICH E9: estimands addendum](https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf):
+
+_A precise description of the treatment effect reflecting the clinical question posed by the trial objective. It summarises at a population-level what the outcomes would be in the same patients under different treatment conditions being compared._
+
+## Where should I start?
+
+The [trainings](trainings.html) page is a starting point. Further, a [3min intro video](https://www.youtube.com/watch?v=oeoTOOlx37c): *What is an estimand in a clinical trial: The PIONEER 1 example*.
+
+See also the [publications](publications.html) page.

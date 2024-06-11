@@ -6,7 +6,6 @@ output:
     highlight: pygments
     number_sections: yes
     self_contained: yes
-bibliography: biblio.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -42,9 +41,6 @@ tod <- format(today, format = "%d %B %Y")
 
 As of `r tod`, the working group
 
--   has `r length(loc)` members (`r sum(loc == "Europe", na.rm = TRUE)` from Europe, `r sum(loc == "NorAm", na.rm = TRUE)` from US, and `r sum(loc == "Asia", na.rm = TRUE)` from Asia) representing `r length(unique(com))` companies / institutions,
--   regularly interacts with eight Health Authorities globally,
+-   has `r length(loc)` members representing `r length(unique(com))` companies / institutions,
 -   regularly organizes sessions and presents at conferences,
--   has started to interact with academic colleagues.
-
-![](data/companies.jpg)
+-   has started to interact with partner organizations.
