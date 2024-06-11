@@ -11,7 +11,6 @@ output:
     toc: yes
     toc_depth: 3
     toc_float: yes
-bibliography: biblio.bib
 ---
 
 ## European special interest group “Estimands in oncology”, sponsored by PSI and EFSPI and ASA scientific working group of the ASA biopharmaceutical section
