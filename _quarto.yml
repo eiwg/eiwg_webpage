@@ -43,12 +43,12 @@ website:
       href: trainings.html
     - text: "Publications"
       href: publications.html
-    - text: "Events"
-      menu:
-        - text: "Upcoming events"
-          href: events_upcoming.html
-        - text: "Past events"
-          href: events_past.html
+#    - text: "Events"
+#      menu:
+#        - text: "Upcoming events"
+#          href: events_upcoming.html
+#        - text: "Past events"
+#          href: events_past.html
     - text: "Further resources"
       href: resources.html
 

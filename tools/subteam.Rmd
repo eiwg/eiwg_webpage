@@ -1,0 +1,21 @@
+```{r echo = FALSE}
+# how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
+
+i <- as.numeric('{{i}}')
+```
+
+## `r subteams_names[i]`
+
+**Lead**: `r lead(subteams[i])`
+
+**Objective**: 
+
+`r obj(subteams[i])`
+
+```{r, echo = FALSE, results = 'asis', message = FALSE}
+t0 <- (email %>% arrange(Company))
+t1 <- (t0[is.na(t0[, subteams[i]]) == FALSE, ] %>% select(Name, Company, Type))
+rownames(t1) <- NULL
+kable(t1) 
+```
+
