@@ -22,6 +22,6 @@ suppressWarnings(library("knitr"))
 suppressWarnings(library("readxl"))
 tab <- as.data.frame(read_excel("data/training.xlsx"), col_types = rep("text", 5))
 tab[is.na(tab)] <- ""
-tab[, "Material"] <- paste("[Slidedecks and/or written updates](", tab[, "Material"], ")", sep = "")
+tab[, "Link"] <- paste("[Video-on-Demand Library](", tab[, "Link"], ")", sep = "")
 kable(tab)
 ```
