@@ -5,8 +5,8 @@ project:
     - index.qmd
     - achievements.qmd
     - collaborations.qmd
-    - events_upcoming.qmd
-    - events_past.qmd
+#    - events_upcoming.qmd
+#    - events_past.qmd
     - trainings.qmd
     - organization.qmd
     - publications.qmd

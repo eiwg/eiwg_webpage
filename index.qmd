@@ -15,11 +15,18 @@ output:
 
 ## Purpose
 
-Find on this webpage information on the Estimands Implementation Working Group (EIWG).
+EIWG brings together statisticians and clinicians to support the estimand journey
 
-## Become a member
+## Activities
 
-The general spirit of the working group is inclusive. If you'd like to contribute in one or the other way, we propose you first reach out to your company's representative(s) (if applicable) and align within your company who is best placed to contribute to which sub-team. After that is clarified reach out to the leads - contact details available [here](organization.html).
+Beyond work in the [subteams](subteams.html), the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include: 
+
+ + Collaborating with experts to refine and possibly extend implementation.
+ + Publishing reviews, case studies, and white papers with recommendations, for statisticians and non-statisticians.
+ + Interacting with clinicians, regulators and the broader clinical community to obtain a better understanding of their requirements. 
+ + Providing trainings, workshops and talks.
+
+On this webpage we provide information regarding activities, [trainings](trainings.html) and [publications](publications.html) of the EIWG.
 
 ## Connection to professional organizations
 
@@ -27,6 +34,10 @@ The working group was established by [EFPIA](https://efpia.eu/) and [EFSPI](http
 
 ![](data/EFPIA.png)
 ![](data/EFSPI.png)
+
+## Become a member
+
+The general spirit of the working group is inclusive. If you'd like to contribute in one or the other way, we propose you first reach out to your company's [representative(s)](status.html) (if applicable) and align within your company who is best placed to contribute to which sub-team. After that is clarified reach out to the leads - contact details available [here](organization.html).
 
 ## Links to this page
 

@@ -30,9 +30,9 @@ source(file = paste(path, "/tools/lead.r", sep = ""))
 email <- as.data.frame(read_excel(paste(path, "/data/members.xlsx", sep = ""), col_types = NULL))
 
 ## function to display
-ind <- email[, "Type"] == "Industry" 
-loc <- email[ind, "Location"]
-com <- email[ind, "Institution"]
+ind <- email %>% filter(Type == "Full")
+loc <- ind$Name
+com <- ind$Company
 
 ## Current month
 today <- Sys.Date()
@@ -44,3 +44,12 @@ As of `r tod`, the working group
 -   has `r length(loc)` members representing `r length(unique(com))` companies / institutions,
 -   regularly organizes sessions and presents at conferences,
 -   has started to interact with partner organizations.
+
+## Members
+
+```{r, echo = FALSE, results = 'asis', message = FALSE}
+t0 <- (ind %>% arrange(Company))
+t1 <- (ind %>% select(Name, Company, Function))
+rownames(t1) <- NULL
+kable(t1) 
+```

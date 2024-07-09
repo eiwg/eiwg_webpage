@@ -22,12 +22,3 @@ Stefan Englert from [J&J](https://www.jnj.com/).
 ## Task forces and members
 
 The working group operates within eight sub-teams. Objectives and member rosters of these sub-teams are available [here](subteams.html).
-
-## Activities
-
-Beyond work in the subteams, the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include: 
-
- + Collaborating with experts to refine and possibly extend implementation.
- + Publishing reviews, case studies, and white papers with recommendations, for statisticians and non-statisticians.
- + Interacting with clinicians, regulators and the broader clinical community to obtain a better understanding of their requirements. 
- + Providing trainings, workshops and talks.
