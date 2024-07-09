@@ -15,7 +15,7 @@ output:
 
 Here we list the publications that the group has written or contributed to:
 
-- *B. C. Kahan BC, J. Hindley, M. Edwards, S. Cro, T. P. Morris*. **The estimands framework: a primer on the ICH E9(R1) addendum**. ***BMJ***. 384:e076316 (2024) <https://doi.org/10.1136/bmj-2023-076316>
+- *B. C. Kahan, J. Hindley, M. Edwards, S. Cro, T. P. Morris*. **The estimands framework: a primer on the ICH E9(R1) addendum**. ***BMJ***. 384:e076316 (2024) <https://doi.org/10.1136/bmj-2023-076316>
 - *O. N. Keene, H. Lynggaard , S. Englert, V. Lanius, D. Wright*. **Why Estimands are Needed to Define Treatment Effects in Clinical Trials**. ***BMC Medicine***. 21:276 (2023) <https://doi.org/10.1186/s12916-023-02969-6>
 - *B. C. Kahan, I. R. White, M. Edwards, M. O. Harhay*. **Using modified intention-to-treat as a principal stratum estimator for failure to initiate treatment**. ***Clinical Trials*** 20(3):269-275 (2023)  <https://doi.org/10.1177/17407745231160074>
 - *A. Morga, NR. Latimer, M. Scott, N. Hawkins, M. Schlichting, J. Wang*. **Is Intention to Treat Still the Gold Standard or Should Health Technology Assessment Agencies Embrace a Broader Estimands Framework?: Insights and Perspectives From NICE and IQWiG on the ICH E9(R1) Addendum**. ***Value Health***. 2022 Sep 20:S1098-3015(22)02148-9. <https://doi.org/10.1016/j.jval.2022.08.008> 
