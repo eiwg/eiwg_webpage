@@ -1,0 +1,14 @@
+{
+  "hash": "51bac26c615307e2a4e566f72f9ed132",
+  "result": {
+    "markdown": "---\ntitle: \"Upcoming events with contributions from the working group\"\ndate: last-modified\noutput: \n  rmarkdown::html_document:\n    highlight: pygments\n    number_sections: yes\n    self_contained: yes\n    toc: yes\n    toc_depth: 3\n    toc_float: yes\nbibliography: biblio.bib\n---\n\n\n\n\nBelow a list of past events with contributions of the WG, with links to slidedecks and recordings (where available).\n\n\n\n\n::: {.cell}\n\n:::\n\n# 16.06.2024: PSI conference {-} \n\n\n\nAmsterdam / Netherlands\n\n[Webpage of the event](https://www.psiweb.org/conferences/about-the-conference)\n\n\n\n\n\n\n\n\n\n::: {.cell}\n\n:::\n\nNo slides available\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
