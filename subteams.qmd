@@ -11,7 +11,7 @@ output:
     toc_float: yes
 ---
 
-The working group now operates within eight sub-teams. Objectives and member rosters of these sub-teams are available below.
+The working group operates within eight sub-teams. Objectives and member rosters of these sub-teams are available below.
 
 ```{r setup, include=FALSE}
 ## load packages

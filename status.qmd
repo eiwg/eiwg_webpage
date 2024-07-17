@@ -30,7 +30,7 @@ source(file = paste(path, "/tools/lead.r", sep = ""))
 email <- as.data.frame(read_excel(paste(path, "/data/members.xlsx", sep = ""), col_types = NULL))
 
 ## function to display
-ind <- email %>% filter(Type == "Full")
+ind <- email %>% filter(Type == "Full") 
 loc <- ind$Name
 com <- ind$Company
 
@@ -45,11 +45,18 @@ As of `r tod`, the working group
 -   regularly organizes sessions and presents at conferences,
 -   has started to interact with partner organizations.
 
-## Members
+## Current Members
 
 ```{r, echo = FALSE, results = 'asis', message = FALSE}
-t0 <- (ind %>% arrange(Company))
-t1 <- (ind %>% select(Name, Company, Function))
+t1 <- (email %>% filter(Type == "Full") %>% arrange(Company) %>% select(Name, Company, Function))
+rownames(t1) <- NULL
+kable(t1) 
+```
+
+## Past Members
+
+```{r, echo = FALSE, results = 'asis', message = FALSE}
+t1 <- (email %>% filter(Type == "Retired") %>% arrange(Company) %>% select(Name, Company, Function))
 rownames(t1) <- NULL
 kable(t1) 
 ```
