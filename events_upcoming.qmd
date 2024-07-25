@@ -31,7 +31,7 @@ rdate <- paste(y, m, d, sep = "")
 talks$rdate <- rdate
 
 # select talks with past date
-talks <- (talks %>% filter(rdate > gsub("-", "", as.character(Sys.Date()))))
+talks <- (talks %>% filter(rdate > gsub("-", "", as.character(Sys.Date()))) %>% filter(!is.na(date)))
 
 talks <- (talks %>% group_by(rdate, talknr)  %>% 
         arrange(
