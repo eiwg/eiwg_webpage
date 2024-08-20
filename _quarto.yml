@@ -18,6 +18,8 @@ project:
 
 website:
   title: "EFSPI/EFPIA EIWG"
+  site-url: 'https://eiwg.github.io/eiwg_webpage'
+  site-path: '/'
   navbar:
     background: "#2C3791"
     left:
