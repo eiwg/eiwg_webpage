@@ -1,8 +1,6 @@
 ---
 title: "What is an estimand?"
 date: last-modified
-execute:   
-  freeze: auto  # re-render only when source changes
 output: 
   rmarkdown::html_document:
     highlight: pygments

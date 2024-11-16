@@ -1,6 +1,6 @@
 ---
 title: "Upcoming events with contributions from the working group"
-date: last-modified
+date: "`r Sys.Date()`"
 output: 
   rmarkdown::html_document:
     highlight: pygments
@@ -46,7 +46,7 @@ dates <- unique(select(talks, date))[, 1]
 Below a list of upcoming events with contributions of the WG.
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE, include = FALSE}
-
+if (length(dates) > 0) {
 # how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
 
 out1 <- NULL
@@ -56,8 +56,11 @@ for (i in 1:length(dates)){
 
 # the "knit" command somehow produces unwanted output, this is why I assign its output to a and use a separate chunk to display a
 a <- knit(text = unlist(paste(out1, collapse = '\n')), quiet = TRUE)
+}
 ```
 
 ```{r conferences, echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
-cat(a)
+if (length(dates) > 0) {
+  cat(a)
+}
 ```

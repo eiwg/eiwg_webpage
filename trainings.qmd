@@ -1,6 +1,6 @@
 ---
 title: "Estimand Trainings"
-date: last-modified
+date: "`r Sys.Date()`"
 output: 
   rmarkdown::html_document:
     highlight: pygments
