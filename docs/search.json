@@ -207,7 +207,7 @@
     "href": "publications.html",
     "title": "Publications of the group",
     "section": "",
-    "text": "Here we list the publications that the group has written or contributed to:\n\nH. Lynggaard, O. Keene, T. Mütze and S. Rehal. Applying the Estimand Framework to Non-Inferiority Trials. Pharmaceutical Statistics (2024) https://doi.org/10.1002/pst.2433\nB. C. Kahan, J. Hindley, M. Edwards, S. Cro, T. P. Morris. The estimands framework: a primer on the ICH E9(R1) addendum. BMJ. 384:e076316 (2024) https://doi.org/10.1136/bmj-2023-076316\nO. N. Keene. Adherence, per‐protocol effects, and the estimands framework. Pharmaceutical Statistics. 22(6):1141-4 (2023). https://doi.org/10.1002/pst.2326\nO. N. Keene, H. Lynggaard , S. Englert, V. Lanius, D. Wright. Why Estimands are Needed to Define Treatment Effects in Clinical Trials. BMC Medicine. 21:276 (2023) https://doi.org/10.1186/s12916-023-02969-6\nB. C. Kahan, I. R. White, M. Edwards, M. O. Harhay. Using modified intention-to-treat as a principal stratum estimator for failure to initiate treatment. Clinical Trials 20(3):269-275 (2023) https://doi.org/10.1177/17407745231160074\nA. Morga, NR. Latimer, M. Scott, N. Hawkins, M. Schlichting, J. Wang. Is Intention to Treat Still the Gold Standard or Should Health Technology Assessment Agencies Embrace a Broader Estimands Framework?: Insights and Perspectives From NICE and IQWiG on the ICH E9(R1) Addendum. Value Health. 2022 Sep 20:S1098-3015(22)02148-9. https://doi.org/10.1016/j.jval.2022.08.008\nH. Lynggaard, J. Bell, C. Lösch, A. Besseghir, K. Rantell, V. Schoder, V. Lanius. Principles and Recommendations for Incorporating Estimands into Clinical Study Protocol Templates. Trials (2022) https://doi.org/10.1186/s13063-022-06515-2\nC. Fletcher, N. Hefting, M. Wright, J. Bell, J. Anzures-Cabrera, D Wright, H. Lynggaard, A. Schueler. Marking 2-years of new thinking in clinical trials - the estimand journey. Ther Innov Regul Sci 56, 637–650 (2022). https://doi.org/10.1007/s43441-022-00402-3\nO. N. Keene, D. Wright, A. Phillips, M. Wright. Why ITT analysis is not always the answer for estimating treatment effects in clinical trials. Contemporary Clinical Trials. (2021) https://doi.org/10.1016/j.cct.2021.106494"
+    "text": "Here we list the publications that the group has written or contributed to:"
   },
   {
     "objectID": "charter.html",
@@ -285,5 +285,33 @@
     "title": "Sub-teams",
     "section": "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies",
     "text": "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies\nLead: Chun-Hang Tang (Astellas)\nObjective:\n\nDevelop a case study for implementing estimands for a dose-ranging (Ph2b) study\nDevelop a case study with focus on clinical pharmacology studies in pregnant and breast-feeding women\nInput into guidance around implementing estimands for patient-reported outcomes in early phase trials\nExplore estimands for concentration modeling for PD effect (e.g., concentration-QTc).\n\n\n\n\nName\nCompany\nFunction\nType\n\n\n\n\nChun-Hang Tang\nAstellas\nStatistician\nFull\n\n\nDavid Wright\nAstraZeneca\nStatistician\nFull\n\n\nChrissie Fletcher\nGSK\nStatistician\nFull\n\n\nShuying Yang\nGSK\nPharmacometrician\nExtended\n\n\nKhadija Rantell\nMHRA\nStatistician\nFull\n\n\nEssam Kerwash\nMHRA\nPharmacometrician\nExtended\n\n\nHelle Lynggaard\nNovo Nordisk\nStatistician\nFull\n\n\nMargrete Due Thomsen\nNovo Nordisk\nStatistician\nExtended\n\n\nSue McKendrick\nPPD\nStatistician\nFull\n\n\nBilyana Dabin\nPPD\nStatistician\nExtended\n\n\nZara Ghodsi\nPfizer\nStatistician\nFull\n\n\nBeatrice Panico\nScendea\nStatistician\nFull"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "Publications of the group",
+    "section": "2024",
+    "text": "2024\n\nH. Lynggaard, S. McKendrick, M. Baird, E. Kerwash, V. Lanius, F. Lasch, D. Wright. Applying the estimand framework to clinical pharmacology trials with a case study in bioequivalence. Br J Clin Pharmacol (2024) https://doi.org/10.1111/bcp.16347\nT. Mütze, J. Bell, S. Englert, P. Hougaard, D. Jackson, V. Lanius, H. Ravn. Principles for Defining Estimands in Clinical Trials — A Proposal. Pharmaceutical Statistics (2024) https://doi.org/10.1002/pst.2432\nH. Lynggaard, O. Keene, T. Mütze and S. Rehal. Applying the Estimand Framework to Non-Inferiority Trials. Pharmaceutical Statistics (2024) https://doi.org/10.1002/pst.2433\nB. C. Kahan, J. Hindley, M. Edwards, S. Cro, T. P. Morris. The estimands framework: a primer on the ICH E9(R1) addendum. BMJ. 384:e076316 (2024) https://doi.org/10.1136/bmj-2023-076316"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "Publications of the group",
+    "section": "2023",
+    "text": "2023\n\nO. N. Keene. Adherence, per‐protocol effects, and the estimands framework. Pharmaceutical Statistics. 22(6):1141-4 (2023). https://doi.org/10.1002/pst.2326\nO. N. Keene, H. Lynggaard , S. Englert, V. Lanius, D. Wright. Why Estimands are Needed to Define Treatment Effects in Clinical Trials. BMC Medicine. 21:276 (2023) https://doi.org/10.1186/s12916-023-02969-6\nB. C. Kahan, I. R. White, M. Edwards, M. O. Harhay. Using modified intention-to-treat as a principal stratum estimator for failure to initiate treatment. Clinical Trials 20(3):269-275 (2023) https://doi.org/10.1177/17407745231160074"
+  },
+  {
+    "objectID": "publications.html#section-2",
+    "href": "publications.html#section-2",
+    "title": "Publications of the group",
+    "section": "2022",
+    "text": "2022\n\nA. Morga, NR. Latimer, M. Scott, N. Hawkins, M. Schlichting, J. Wang. Is Intention to Treat Still the Gold Standard or Should Health Technology Assessment Agencies Embrace a Broader Estimands Framework?: Insights and Perspectives From NICE and IQWiG on the ICH E9(R1) Addendum. Value Health. 2022 Sep 20:S1098-3015(22)02148-9. https://doi.org/10.1016/j.jval.2022.08.008\nH. Lynggaard, J. Bell, C. Lösch, A. Besseghir, K. Rantell, V. Schoder, V. Lanius. Principles and Recommendations for Incorporating Estimands into Clinical Study Protocol Templates. Trials (2022) https://doi.org/10.1186/s13063-022-06515-2\nC. Fletcher, N. Hefting, M. Wright, J. Bell, J. Anzures-Cabrera, D Wright, H. Lynggaard, A. Schueler. Marking 2-years of new thinking in clinical trials - the estimand journey. Ther Innov Regul Sci 56, 637–650 (2022). https://doi.org/10.1007/s43441-022-00402-3"
+  },
+  {
+    "objectID": "publications.html#section-3",
+    "href": "publications.html#section-3",
+    "title": "Publications of the group",
+    "section": "2021",
+    "text": "2021\n\nO. N. Keene, D. Wright, A. Phillips, M. Wright. Why ITT analysis is not always the answer for estimating treatment effects in clinical trials. Contemporary Clinical Trials. (2021) https://doi.org/10.1016/j.cct.2021.106494"
   }
 ]
