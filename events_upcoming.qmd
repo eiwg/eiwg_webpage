@@ -43,7 +43,24 @@ rdate <- unique(talks$rdate)
 dates <- unique(select(talks, date))[, 1]
 ```
 
-Below a list of upcoming events with contributions of the WG.
+## PSI Estimand Online Training (4 Day Workshop)
+
+**Link and Details:**
+
+<https://psiweb.org/events/event-item/2025/03/10/default-calendar/psi-estimand-online-training-(4-day-workshop)>
+
+**Overview:** 
+Experts from the Estimand Implementation Working Group (EIWG) will provide an in-depth review of the estimand framework as laid out by ICH E9(R1) addendum. Case studies will be discussed illustrating the implementation of this framework in a variety of settings and therapeutic areas, and equivalence, non-inferiority and superiority goals. Insights into the best practice for handling intercurrent events in data will be provided by the PHUSE Implementation of Estimands using Data Standards Project Team.
+In addition, we will engage delegates through considering how estimands might apply to their own clinical settings, interactive quizzes and break out rooms for team discussions of a case study. To get the most from this training, delegates should be prepared to switch on cameras for discussions and complete some tasks between sessions. Team discussions will be supported by EIWG tutors.
+
+**Date & Times**
+
+* Module 1 - Monday 10th March: 09:30-15:00 BST
+* Module 2 - Thursday 20th March: 09:30-15:00 BST
+* Module 3 - Friday 21st March: 09:30-15:00 BST
+* Module 4 - Friday 28th March: 09:00-15:00 BST
+
+<!-- Below a list of further upcoming events with contributions of the WG.-->
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE, include = FALSE}
 if (length(dates) > 0) {
