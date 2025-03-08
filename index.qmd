@@ -39,7 +39,7 @@ The general spirit of the working group is inclusive. If you'd like to contribut
 
 ## Links to this page
 
-- URL to this page: <http://www.eiwg.info> (eiwg.info)
+- URL to this page: <https://www.eiwg.info> (eiwg.info)
 - Link to this page: <https://eiwg.github.io/eiwg_webpage/>
 - Github repo: <https://github.com/eiwg/eiwg_webpage>
 
