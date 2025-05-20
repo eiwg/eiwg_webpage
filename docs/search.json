@@ -25,7 +25,7 @@
     "href": "status.html",
     "title": "Status",
     "section": "",
-    "text": "As of 08 März 2025, the working group"
+    "text": "As of 20 Mai 2025, the working group"
   },
   {
     "objectID": "status.html#current-members",
@@ -54,6 +54,13 @@
     "title": "Further resources",
     "section": "",
     "text": "Oncology estimand working group.\nEFSPI/PSI SIG on Estimands in Neuroscience.\nInternational Society for Quality of Life Research (ISOQOL) statistics SIG: this SIG also has a workstream that works on estimands for PRO."
+  },
+  {
+    "objectID": "resources.html#implementation-of-estimands-ich-e9-r1-using-data-standards",
+    "href": "resources.html#implementation-of-estimands-ich-e9-r1-using-data-standards",
+    "title": "Further resources",
+    "section": "Implementation of Estimands (ICH E9 (R1)) using Data Standards",
+    "text": "Implementation of Estimands (ICH E9 (R1)) using Data Standards\n\nImplementation of ICH E9(R1) Estimands Framework\nusing Data Standards\nImplementation of ICH E9(R1) Estimands Framework\nusing Data Standards - Example Document"
   },
   {
     "objectID": "organization.html",
@@ -89,6 +96,13 @@
     "title": "Past events with contributions from the working group",
     "section": "",
     "text": "Below a list of past events with contributions of the WG, with links to slidedecks and recordings (where available)."
+  },
+  {
+    "objectID": "events_past.html#psi-estimand-online-training-4-day-workshop",
+    "href": "events_past.html#psi-estimand-online-training-4-day-workshop",
+    "title": "Past events with contributions from the working group",
+    "section": "PSI Estimand Online Training (4 Day Workshop)",
+    "text": "PSI Estimand Online Training (4 Day Workshop)\nLink and Details:\nhttps://psiweb.org/events/event-item/2025/03/10/default-calendar/psi-estimand-online-training-(4-day-workshop)\nOverview: Experts from the Estimand Implementation Working Group (EIWG) will provide an in-depth review of the estimand framework as laid out by ICH E9(R1) addendum. Case studies will be discussed illustrating the implementation of this framework in a variety of settings and therapeutic areas, and equivalence, non-inferiority and superiority goals. Insights into the best practice for handling intercurrent events in data will be provided by the PHUSE Implementation of Estimands using Data Standards Project Team. In addition, we will engage delegates through considering how estimands might apply to their own clinical settings, interactive quizzes and break out rooms for team discussions of a case study. To get the most from this training, delegates should be prepared to switch on cameras for discussions and complete some tasks between sessions. Team discussions will be supported by EIWG tutors.\nDate & Times\n\nModule 1 - Monday 10th March: 09:30-15:00 BST\nModule 2 - Thursday 20th March: 09:30-15:00 BST\nModule 3 - Friday 21st March: 09:30-15:00 BST\nModule 4 - Friday 28th March: 09:00-15:00 BST"
   },
   {
     "objectID": "collaborations.html",
@@ -196,11 +210,11 @@
     "text": "Link and Details:\nhttps://psiweb.org/events/event-item/2025/06/03/default-calendar/psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance\nDate: Tuesday 3rd June 2025  Time: 14:00 - 15:15 BST  Location: Online via Zoom\nThis webinar is free to attend. To register for this event, please click here\nOverview: Are you involved in designing or writing clinical pharmacology protocols? Then don’t miss this webinar! We’ll focus on the core concepts of estimands, specifically aimed at clinical trial development teams – no heavy statistical jargon required.\nJoin the expert authors of a recent paper [1] as they introduce the game-changing concepts of the “estimand framework” [2], “intercurrent events” [2], and the estimand thinking process. In this beginner-friendly session, you’ll learn, step-by-step, how to apply estimand thinking to your trials, leading to clearer objectives and more meaningful results.\nWe’ll dive into a practical case study – a bioequivalence trial – to illustrate how the estimand framework can eliminate ambiguity and bring greater transparency to the key clinical questions you’re investigating. Beyond this specific example, we’ll discuss the broader impact of estimands on various clinical pharmacology trials.\nCome ready to learn and ask questions! The presenters will be joined by some of their co-authors for an interactive Q&A session after the presentation.\n[1] Applying the estimand framework to clinical pharmacology trials with a case study in bioequivalence - Lynggaard - 2025 - British Journal of Clinical Pharmacology - Wiley Online Library\n[2] International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use. Addendum on Estimands and Sensitivity Analysis in Clinical Trials to the Guideline on Statistical Principles for Clinical Trials E9(R1). https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf. Published November 2019"
   },
   {
-    "objectID": "events_upcoming.html#psi-estimand-online-training-4-day-workshop",
-    "href": "events_upcoming.html#psi-estimand-online-training-4-day-workshop",
+    "objectID": "events_upcoming.html#psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance",
+    "href": "events_upcoming.html#psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance",
     "title": "Upcoming events with contributions from the working group",
     "section": "",
-    "text": "Link and Details:\nhttps://psiweb.org/events/event-item/2025/03/10/default-calendar/psi-estimand-online-training-(4-day-workshop)\nOverview: Experts from the Estimand Implementation Working Group (EIWG) will provide an in-depth review of the estimand framework as laid out by ICH E9(R1) addendum. Case studies will be discussed illustrating the implementation of this framework in a variety of settings and therapeutic areas, and equivalence, non-inferiority and superiority goals. Insights into the best practice for handling intercurrent events in data will be provided by the PHUSE Implementation of Estimands using Data Standards Project Team. In addition, we will engage delegates through considering how estimands might apply to their own clinical settings, interactive quizzes and break out rooms for team discussions of a case study. To get the most from this training, delegates should be prepared to switch on cameras for discussions and complete some tasks between sessions. Team discussions will be supported by EIWG tutors.\nDate & Times\n\nModule 1 - Monday 10th March: 09:30-15:00 BST\nModule 2 - Thursday 20th March: 09:30-15:00 BST\nModule 3 - Friday 21st March: 09:30-15:00 BST\nModule 4 - Friday 28th March: 09:00-15:00 BST"
+    "text": "Link and Details:\nhttps://psiweb.org/events/event-item/2025/06/03/default-calendar/psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance\nDate: Tuesday 3rd June 2025  Time: 14:00 - 15:15 BST  Location: Online via Zoom\nThis webinar is free to attend. To register for this event, please click here\nOverview: Are you involved in designing or writing clinical pharmacology protocols? Then don’t miss this webinar! We’ll focus on the core concepts of estimands, specifically aimed at clinical trial development teams – no heavy statistical jargon required.\nJoin the expert authors of a recent paper [1] as they introduce the game-changing concepts of the “estimand framework” [2], “intercurrent events” [2], and the estimand thinking process. In this beginner-friendly session, you’ll learn, step-by-step, how to apply estimand thinking to your trials, leading to clearer objectives and more meaningful results.\nWe’ll dive into a practical case study – a bioequivalence trial – to illustrate how the estimand framework can eliminate ambiguity and bring greater transparency to the key clinical questions you’re investigating. Beyond this specific example, we’ll discuss the broader impact of estimands on various clinical pharmacology trials.\nCome ready to learn and ask questions! The presenters will be joined by some of their co-authors for an interactive Q&A session after the presentation.\n[1] Applying the estimand framework to clinical pharmacology trials with a case study in bioequivalence - Lynggaard - 2025 - British Journal of Clinical Pharmacology - Wiley Online Library\n[2] International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use. Addendum on Estimands and Sensitivity Analysis in Clinical Trials to the Guideline on Statistical Principles for Clinical Trials E9(R1). https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf. Published November 2019"
   },
   {
     "objectID": "trainings.html",
@@ -327,26 +341,5 @@
     "title": "Sub-teams",
     "section": "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies",
     "text": "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies\nLead: Chun-Hang Tang (Astellas)\nObjective:\n\nDevelop a case study for implementing estimands for a dose-ranging (Ph2b) study\nDevelop a case study with focus on clinical pharmacology studies in pregnant and breast-feeding women\nInput into guidance around implementing estimands for patient-reported outcomes in early phase trials\nExplore estimands for concentration modeling for PD effect (e.g., concentration-QTc).\n\n\n\n\nName\nCompany\nFunction\nType\n\n\n\n\nChun-Hang Tang\nAstellas\nStatistician\nFull\n\n\nDavid Wright\nAstraZeneca\nStatistician\nFull\n\n\nChrissie Fletcher\nGSK\nStatistician\nFull\n\n\nShuying Yang\nGSK\nPharmacometrician\nExtended\n\n\nKhadija Rantell\nMHRA\nStatistician\nFull\n\n\nEssam Kerwash\nMHRA\nPharmacometrician\nExtended\n\n\nHelle Lynggaard\nNovo Nordisk\nStatistician\nFull\n\n\nMargrete Due Thomsen\nNovo Nordisk\nStatistician\nExtended\n\n\nSue McKendrick\nPPD\nStatistician\nFull\n\n\nBilyana Dabin\nPPD\nStatistician\nExtended\n\n\nZara Ghodsi\nPfizer\nStatistician\nFull\n\n\nBeatrice Panico\nScendea\nStatistician\nFull"
-  },
-  {
-    "objectID": "events_past.html#psi-estimand-online-training-4-day-workshop",
-    "href": "events_past.html#psi-estimand-online-training-4-day-workshop",
-    "title": "Past events with contributions from the working group",
-    "section": "PSI Estimand Online Training (4 Day Workshop)",
-    "text": "PSI Estimand Online Training (4 Day Workshop)\nLink and Details:\nhttps://psiweb.org/events/event-item/2025/03/10/default-calendar/psi-estimand-online-training-(4-day-workshop)\nOverview: Experts from the Estimand Implementation Working Group (EIWG) will provide an in-depth review of the estimand framework as laid out by ICH E9(R1) addendum. Case studies will be discussed illustrating the implementation of this framework in a variety of settings and therapeutic areas, and equivalence, non-inferiority and superiority goals. Insights into the best practice for handling intercurrent events in data will be provided by the PHUSE Implementation of Estimands using Data Standards Project Team. In addition, we will engage delegates through considering how estimands might apply to their own clinical settings, interactive quizzes and break out rooms for team discussions of a case study. To get the most from this training, delegates should be prepared to switch on cameras for discussions and complete some tasks between sessions. Team discussions will be supported by EIWG tutors.\nDate & Times\n\nModule 1 - Monday 10th March: 09:30-15:00 BST\nModule 2 - Thursday 20th March: 09:30-15:00 BST\nModule 3 - Friday 21st March: 09:30-15:00 BST\nModule 4 - Friday 28th March: 09:00-15:00 BST"
-  },
-  {
-    "objectID": "events_upcoming.html#psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance",
-    "href": "events_upcoming.html#psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance",
-    "title": "Upcoming events with contributions from the working group",
-    "section": "",
-    "text": "Link and Details:\nhttps://psiweb.org/events/event-item/2025/06/03/default-calendar/psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance\nDate: Tuesday 3rd June 2025  Time: 14:00 - 15:15 BST  Location: Online via Zoom\nThis webinar is free to attend. To register for this event, please click here\nOverview: Are you involved in designing or writing clinical pharmacology protocols? Then don’t miss this webinar! We’ll focus on the core concepts of estimands, specifically aimed at clinical trial development teams – no heavy statistical jargon required.\nJoin the expert authors of a recent paper [1] as they introduce the game-changing concepts of the “estimand framework” [2], “intercurrent events” [2], and the estimand thinking process. In this beginner-friendly session, you’ll learn, step-by-step, how to apply estimand thinking to your trials, leading to clearer objectives and more meaningful results.\nWe’ll dive into a practical case study – a bioequivalence trial – to illustrate how the estimand framework can eliminate ambiguity and bring greater transparency to the key clinical questions you’re investigating. Beyond this specific example, we’ll discuss the broader impact of estimands on various clinical pharmacology trials.\nCome ready to learn and ask questions! The presenters will be joined by some of their co-authors for an interactive Q&A session after the presentation.\n[1] Applying the estimand framework to clinical pharmacology trials with a case study in bioequivalence - Lynggaard - 2025 - British Journal of Clinical Pharmacology - Wiley Online Library\n[2] International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use. Addendum on Estimands and Sensitivity Analysis in Clinical Trials to the Guideline on Statistical Principles for Clinical Trials E9(R1). https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf. Published November 2019"
-  },
-  {
-    "objectID": "resources.html#implementation-of-estimands-ich-e9-r1-using-data-standards",
-    "href": "resources.html#implementation-of-estimands-ich-e9-r1-using-data-standards",
-    "title": "Further resources",
-    "section": "Implementation of Estimands (ICH E9 (R1)) using Data Standards",
-    "text": "Implementation of Estimands (ICH E9 (R1)) using Data Standards\n\nImplementation of ICH E9(R1) Estimands Framework\nusing Data Standards\nImplementation of ICH E9(R1) Estimands Framework\nusing Data Standards - Example Document"
   }
 ]
