@@ -43,22 +43,30 @@ rdate <- unique(talks$rdate)
 dates <- unique(select(talks, date))[, 1]
 ```
 
-## PSI Estimand Online Training (4 Day Workshop)
+## PSI Webinar: Applying the Estimand Framework to Clinical Pharmacology Trials with a Case Study in Bioequivalance
 
 **Link and Details:**
 
-<https://psiweb.org/events/event-item/2025/03/10/default-calendar/psi-estimand-online-training-(4-day-workshop)>
+<https://psiweb.org/events/event-item/2025/06/03/default-calendar/psi-webinar-applying-the-estimand-framework-to-clinical-pharmacology-trials-with-a-case-study-in-bioequivalance>
+
+**Date:** Tuesday 3rd June 2025 <br>
+**Time:** 14:00 - 15:15 BST <br>
+**Location:** Online via Zoom
+
+This webinar is free to attend. To register for this event, please [click here](https://psi.glueup.com/event/139872/)
 
 **Overview:** 
-Experts from the Estimand Implementation Working Group (EIWG) will provide an in-depth review of the estimand framework as laid out by ICH E9(R1) addendum. Case studies will be discussed illustrating the implementation of this framework in a variety of settings and therapeutic areas, and equivalence, non-inferiority and superiority goals. Insights into the best practice for handling intercurrent events in data will be provided by the PHUSE Implementation of Estimands using Data Standards Project Team.
-In addition, we will engage delegates through considering how estimands might apply to their own clinical settings, interactive quizzes and break out rooms for team discussions of a case study. To get the most from this training, delegates should be prepared to switch on cameras for discussions and complete some tasks between sessions. Team discussions will be supported by EIWG tutors.
+Are you involved in designing or writing clinical pharmacology protocols? Then don't miss this webinar! We'll focus on the core concepts of estimands, specifically aimed at clinical trial development teams – no heavy statistical jargon required.
 
-**Date & Times**
+Join the expert authors of a recent paper [1] as they introduce the game-changing concepts of the “estimand framework” [2], "intercurrent events" [2], and the estimand thinking process. In this beginner-friendly session, you'll learn, step-by-step, how to apply estimand thinking to your trials, leading to clearer objectives and more meaningful results.
 
-* Module 1 - Monday 10th March: 09:30-15:00 BST
-* Module 2 - Thursday 20th March: 09:30-15:00 BST
-* Module 3 - Friday 21st March: 09:30-15:00 BST
-* Module 4 - Friday 28th March: 09:00-15:00 BST
+We'll dive into a practical case study – a bioequivalence trial – to illustrate how the estimand framework can eliminate ambiguity and bring greater transparency to the key clinical questions you're investigating. Beyond this specific example, we'll discuss the broader impact of estimands on various clinical pharmacology trials.
+
+Come ready to learn and ask questions! The presenters will be joined by some of their co-authors for an interactive Q&A session after the presentation.
+
+[1] [Applying the estimand framework to clinical pharmacology trials with a case study in bioequivalence - Lynggaard - 2025 - British Journal of Clinical Pharmacology - Wiley Online Library](https://urldefense.com/v3/__https:/bpspubs.onlinelibrary.wiley.com/doi/10.1111/bcp.16347__;!!H9nueQsQ!-BVxTMLZb4QPW8zBOvA8OeoZROIXtwcRtkoba6s_XMrHnKfVJegMZHrE3D2tpc9SX7PcSdzs4L6l4uWUpczhVO5OMGA$)
+
+[2] International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use. Addendum on Estimands and Sensitivity Analysis in Clinical Trials to the Guideline on Statistical Principles for Clinical Trials E9(R1). <https://database.ich.org/sites/default/files/E9-R1_Step4_Guideline_2019_1203.pdf>. Published November 2019
 
 <!-- Below a list of further upcoming events with contributions of the WG.-->
 

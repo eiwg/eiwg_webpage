@@ -18,3 +18,10 @@ output:
 - [Oncology estimand working group](http://www.oncoestimand.org).
 - [EFSPI/PSI SIG on Estimands in Neuroscience](https://www.efspi.org/EFSPI/Special_Interest_Groups/Neuroscience_biostatistics_community.aspx).
 - [International Society for Quality of Life Research (ISOQOL) statistics SIG](https://www.isoqol.org/sigs/#statistics): this SIG also has a workstream that works on estimands for PRO.
+
+## Implementation of Estimands (ICH E9 (R1)) using Data Standards
+
+- [Implementation of ICH E9(R1) Estimands Framework  
+using Data Standards](https://phuse.s3.eu-central-1.amazonaws.com/Deliverables/Optimizing+the+Use+of+Data+Standards/WP-92+Implementation+of+Estimands+(ICH+E9+(R1))+using+Data+Standards.pdf)
+- [Implementation of ICH E9(R1) Estimands Framework  
+using Data Standards - Example Document](https://phuse.s3.eu-central-1.amazonaws.com/Deliverables/Optimizing+the+Use+of+Data+Standards/WP-92+Implementation+of+Estimands+(ICH+E9+(R1))+using+Data+Standards-Example+Document.pdf)
