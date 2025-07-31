@@ -17,6 +17,7 @@ EIWG brings together statisticians and clinicians to support the estimand journe
 
 ## Activities
 
+Recently a new *US* subteam was founded.
 Beyond work in the [subteams](subteams.html), the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include: 
 
  + Collaborating with experts to refine and possibly extend implementation.
@@ -29,6 +30,8 @@ On this webpage we provide information regarding activities, [trainings](trainin
 ## Connection to professional organizations
 
 The working group was established by [EFPIA](https://efpia.eu/) and [EFSPI](https://www.efspi.org) as one of three [EFSPI working groups](https://www.efspi.org/EFSPI/About_EFSPI/Working_Groups.aspx).
+
+
 
 ![](data/EFPIA.png)
 ![](data/EFSPI.png)
