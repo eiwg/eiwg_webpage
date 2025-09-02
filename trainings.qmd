@@ -23,5 +23,6 @@ suppressWarnings(library("readxl"))
 tab <- as.data.frame(read_excel("data/training.xlsx"), col_types = rep("text", 5))
 tab[is.na(tab)] <- ""
 tab[, "Link"] <- paste("[Video-on-Demand Library](", tab[, "Link"], ")", sep = "")
-kable(tab)
+tab[, "YouTube"] <- paste("[YouTube Video](", tab[, "YouTube"], ")", sep = "")
+kable(tab, col.names = c("Date", "Webinar Title", "PSI Video on Demand Link", "YouTube Video Link"))
 ```

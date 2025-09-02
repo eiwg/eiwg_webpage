@@ -17,6 +17,7 @@ Here we list the publications that the group has written or contributed to:
 
 ## 2025
 
+- *T. Drury, J. W. Bartlett, D. Wright, O. N. Keene.* **The Estimand Framework and Causal Inference: Complementary Not Competing Paradigms**. ***Pharmaceutical Statistics*** 24:e70035. (2025) <https://doi.org/10.1002/pst.70035>
 - *V. Lanius, B. Glocker, C. Lösch, D. J. Bratton, F. Callegari, M. Wright, S. Rajamäki.* **Realizing the benefits of the estimand framework when reporting and communicating clinical trial results—some recommendations**. ***Trials*** 26, 241 (2025) <https://doi.org/10.1186/s13063-025-08915-6>
 - *J. Bell, T. Drury, T. Mütze, C. B. Pipper, L. Guizzaro, M. Mitroiu, K. R. Rantell, M. Wolbers and D. Wright*. **Estimation Methods for Estimands Using the Treatment Policy Strategy; a Simulation Study Based on the PIONEER 1 Trial**. ***Pharmaceutical Statistics*** 24:e2472. (2025) <https://doi.org/10.1002/pst.2472>
 
