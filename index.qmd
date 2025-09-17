@@ -17,7 +17,7 @@ EIWG brings together statisticians and clinicians to support the estimand journe
 
 ## Activities
 
-Recently a new *US* subteam was founded.
+Recently new *US* and *Study Design* subteams were founded.
 Beyond work in the [subteams](subteams.html), the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include: 
 
  + Collaborating with experts to refine and possibly extend implementation.
