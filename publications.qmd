@@ -17,6 +17,7 @@ Here we list the publications that the group has written or contributed to:
 
 ## 2025
 
+- *R. K. Metcalfe, A. Remiro-Azócar, Q. Vuong, A. Gorst-Rasmussen, O. Keene, S. Alam, J. Park.* **Estimands and their implications for evidence synthesis for oncology: A simulation study of treatment switching in meta-analysis**. ***Research Synthesis Methods***. 2025;1–24. (2025) <https://doi.org/10.1017/rsm.2025.10039> 
 - *F. Beckers, N. Karkada, Y. Yang, J. Scott, L. Huang, F. Klinglmüller, M. P. Fay, S. Englert, B. Spiessens, I. Van Dromme, T. Shekar, H. Zhou, Q. Deng, D. Casula, H. Janes, L. H. Moulton.* **Adopting the estimand framework in prophylactic vaccine trials**. ***Vaccine*** 64:0264-410X. (2025) <https://doi.org/10.1016/j.vaccine.2025.127645>
 - *T. Drury, J. W. Bartlett, D. Wright, O. N. Keene.* **The Estimand Framework and Causal Inference: Complementary Not Competing Paradigms**. ***Pharmaceutical Statistics*** 24:e70035. (2025) <https://doi.org/10.1002/pst.70035>
 - *V. Lanius, B. Glocker, C. Lösch, D. J. Bratton, F. Callegari, M. Wright, S. Rajamäki.* **Realizing the benefits of the estimand framework when reporting and communicating clinical trial results—some recommendations**. ***Trials*** 26, 241 (2025) <https://doi.org/10.1186/s13063-025-08915-6>
