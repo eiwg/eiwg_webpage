@@ -41,8 +41,8 @@ today <- Sys.Date()
 tod <- format(today, format = "%d %B %Y")
 
 ## Subteams
-subteams <- c("Communications", "LateStage", "Reporting", "Estimation", "NonInferiority", "Training", "IntercurrentEvent", "EarlyPhase", "NorthAmerica", "StudyDesign")
-subteams_names <- c("Communications", "HTA and RWE", "Reporting", "Estimation", "Non-inferiority", "Training", "Intercurrent event", "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies", "North America", "Study Design")
+subteams <- c("Communications", "LateStage", "Reporting", "Estimation", "NonInferiority", "Training", "IntercurrentEvent", "EarlyPhase", "NorthAmerica", "StudyDesign", "China")
+subteams_names <- c("Communications", "HTA and RWE", "Reporting", "Estimation", "Non-inferiority", "Training", "Intercurrent event", "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies", "North America", "Study Design", "China")
 ```
 
 ```{r, label = "active", echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
