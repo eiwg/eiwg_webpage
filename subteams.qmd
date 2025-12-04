@@ -45,10 +45,25 @@ subteams <- c("Communications", "LateStage", "Reporting", "Estimation", "NonInfe
 subteams_names <- c("Communications", "HTA and RWE", "Reporting", "Estimation", "Non-inferiority", "Training", "Intercurrent event", "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies", "North America", "Study Design", "China")
 ```
 
-```{r, label = "active", echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
+# Regional Subteams
+
+```{r, label = "regional", echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
 # how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
 out2 <- NULL
-for (i in 1:length(subteams)){
+for (i in c(9,11)){
+  out2 <- c(out2, knit_expand('tools/subteam.Rmd'))
+}
+
+# the "knit" command somehow produces unwanted output, this is why I assign its output to a and use a separate chunk to display a
+cat(knit(text = unlist(paste(out2, collapse = '\n')), quiet = TRUE))
+```
+
+# Topic Subteams
+
+```{r, label = "topic", echo = FALSE, message = FALSE, warning = FALSE, results = "asis"}
+# how to do this with child documents: https://gist.github.com/rmoff/a043676a2f084b81a434
+out2 <- NULL
+for (i in c(1:8,10)){
   out2 <- c(out2, knit_expand('tools/subteam.Rmd'))
 }
 
