@@ -19,6 +19,10 @@ output:
 - [EFSPI/PSI SIG on Estimands in Neuroscience](https://www.efspi.org/EFSPI/Special_Interest_Groups/Neuroscience_biostatistics_community.aspx).
 - [International Society for Quality of Life Research (ISOQOL) statistics SIG](https://www.isoqol.org/sigs/#statistics): this SIG also has a workstream that works on estimands for PRO.
 
+## Topics requiring clarification 
+
+Recently, members of the EIWG have prepared topics on ICH E9(R1) requiring further clarification. The [final set of questions](/publications/Questions-to-ICH-E9-WG-final-19-Dec-25.pdf) have been shared with the previous lead of the ICH E9 Working Group.  
+
 ## Implementation of Estimands (ICH E9 (R1)) using Data Standards
 
 - [Implementation of ICH E9(R1) Estimands Framework  

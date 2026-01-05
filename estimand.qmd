@@ -19,6 +19,6 @@ _A precise description of the treatment effect reflecting the clinical question 
 
 ## Where should I start?
 
-The [trainings](trainings.html) page is a starting point. Further, a [3min intro video](https://www.youtube.com/watch?v=oeoTOOlx37c): *What is an estimand in a clinical trial: The PIONEER 1 example*.
+The [trainings](trainings.html) page is a starting point. Further, a [3min intro video](https://www.youtube.com/watch?v=oeoTOOlx37c) is available: *What is an estimand in a clinical trial: The PIONEER 1 example*.
 
-See also the [publications](publications.html) page.
+See also the [publications](publications.html) page regarding work from the EIWG. Recently, members of the EIWG have prepared topics on ICH E9(R1) [requiring further clarification](/publications/Questions-to-ICH-E9-WG-final-19-Dec-25.pdf).  

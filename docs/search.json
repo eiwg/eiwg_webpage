@@ -18,14 +18,14 @@
     "href": "estimand.html#where-should-i-start",
     "title": "What is an estimand?",
     "section": "Where should I start?",
-    "text": "Where should I start?\nThe trainings page is a starting point. Further, a 3min intro video: What is an estimand in a clinical trial: The PIONEER 1 example.\nSee also the publications page."
+    "text": "Where should I start?\nThe trainings page is a starting point. Further, a 3min intro video is available: What is an estimand in a clinical trial: The PIONEER 1 example.\nSee also the publications page regarding work from the EIWG. Recently, members of the EIWG have prepared topics on ICH E9(R1) requiring further clarification."
   },
   {
     "objectID": "status.html",
     "href": "status.html",
     "title": "Status",
     "section": "",
-    "text": "As of 04 Dezember 2025, the working group"
+    "text": "As of 05 Januar 2026, the working group"
   },
   {
     "objectID": "status.html#current-members",
@@ -54,6 +54,13 @@
     "title": "Further resources",
     "section": "",
     "text": "Oncology estimand working group.\nEFSPI/PSI SIG on Estimands in Neuroscience.\nInternational Society for Quality of Life Research (ISOQOL) statistics SIG: this SIG also has a workstream that works on estimands for PRO."
+  },
+  {
+    "objectID": "resources.html#topics-requiring-clarification",
+    "href": "resources.html#topics-requiring-clarification",
+    "title": "Further resources",
+    "section": "Topics requiring clarification",
+    "text": "Topics requiring clarification\nRecently, members of the EIWG have prepared topics on ICH E9(R1) requiring further clarification. The final set of questions have been shared with the previous lead of the ICH E9 Working Group."
   },
   {
     "objectID": "resources.html#implementation-of-estimands-ich-e9-r1-using-data-standards",
@@ -151,7 +158,7 @@
     "href": "index.html#activities",
     "title": "Estimands Implementation Working Group (EIWG)",
     "section": "Activities",
-    "text": "Activities\nRecently new North America as well as Study Design subteams were founded. Beyond work in the subteams, the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include:\n\nCollaborating with experts to refine and possibly extend implementation.\nPublishing reviews, case studies, and white papers with recommendations, for statisticians and non-statisticians.\nInteracting with clinicians, regulators and the broader clinical community to obtain a better understanding of their requirements.\nProviding trainings, workshops and talks.\n\nOn this webpage we provide information regarding activities, trainings and publications of the EIWG."
+    "text": "Activities\nRecently, members of the EIWG have prepared topics on ICH E9(R1) requiring clarification. The final set of questions have been shared with the previous lead of the ICH E9 Working Group.\nNew North America, China as well as Study Design subteams were founded.\nBeyond work in the subteams, the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include:\n\nCollaborating with experts to refine and possibly extend implementation.\nPublishing reviews, case studies, and white papers with recommendations, for statisticians and non-statisticians.\nInteracting with clinicians, regulators and the broader clinical community to obtain a better understanding of their requirements.\nProviding trainings, workshops and talks.\n\nOn this webpage we provide information regarding activities, trainings and publications of the EIWG."
   },
   {
     "objectID": "index.html#connection-to-professional-organizations",
@@ -319,7 +326,7 @@
     "href": "subteams.html#hta-and-rwe",
     "title": "Sub-teams",
     "section": "HTA and RWE",
-    "text": "HTA and RWE\nLead: Antonia Morga (Astellas), Pepa Polavieja (Novo Nordisk)\nObjective:\n\nThe late phase estimands implementation Working group brings together health economists, epidemiologists and statisticians to support the estimand journey and provide a cross-industry forum to\n\nDiscuss estimand issues emerging in an HTA context, including HTA agencies’ awareness/adoption of Addendum and estimands framework\nEngage in scientific discussion on the value and benefits of the estimands framework in health technology assessments\nExplore the scope of estimand framework in the context of comparative effectiveness RWE studies\nDiscuss issues emerging through application\n\nWith the aim to promote broad understanding and awareness of the framework among statisticians, clinicians, health care providers, epidemiologist, health economist and health technology assessment agencies.\n\n\n\n\nName\nCompany\nFunction\nType\n\n\n\n\nAntonia Morga\nAstellas\nStatistician\nFull\n\n\nFrank Kleinjung\nBayer\nStatistician\nExtended\n\n\nTatsiana Vaitsiakhovich\nBoehringer-Ingelheim\nStatistician\nExtended\n\n\nArthur Alignol\nDaichi Sankio\nStatistician\nExtended\n\n\nAmel Besseghir\nFortrea\nStatistician\nFull\n\n\nBarbara Rosettani\nHookipapharma\nStatistician\nExtended\n\n\nKhadija Rantell\nMHRA\nStatistician\nFull\n\n\nEmmanuelle Boutmy\nMerck\nStatistician\nExtended\n\n\nAntonio Remiro-Azocar\nNovo Nordisk\nStatistician\nExtended\n\n\nPepa Polavieja\nNovo Nordisk\nStatistician\nFull\n\n\nLotte Husemoen\nNovo Nordisk\nStatistician\nExtended"
+    "text": "HTA and RWE\nLead: Lotte Husemoen (Novo Nordisk), Emmanuelle Boutmy (Merck)\nObjective:\n\nThe late phase estimands implementation Working group brings together health economists, epidemiologists and statisticians to support the estimand journey and provide a cross-industry forum to\n\nDiscuss estimand issues emerging in an HTA context, including HTA agencies’ awareness/adoption of Addendum and estimands framework\nEngage in scientific discussion on the value and benefits of the estimands framework in health technology assessments\nExplore the scope of estimand framework in the context of comparative effectiveness RWE studies\nDiscuss issues emerging through application\n\nWith the aim to promote broad understanding and awareness of the framework among statisticians, clinicians, health care providers, epidemiologist, health economist and health technology assessment agencies.\n\n\n\n\nName\nCompany\nFunction\nType\n\n\n\n\nAntonia Morga\nAstellas\nStatistician\nFull\n\n\nFrank Kleinjung\nBayer\nStatistician\nExtended\n\n\nTatsiana Vaitsiakhovich\nBoehringer-Ingelheim\nStatistician\nExtended\n\n\nArthur Alignol\nDaichi Sankio\nStatistician\nExtended\n\n\nAmel Besseghir\nFortrea\nStatistician\nFull\n\n\nBarbara Rosettani\nHookipapharma\nStatistician\nExtended\n\n\nKhadija Rantell\nMHRA\nStatistician\nFull\n\n\nEmmanuelle Boutmy\nMerck\nStatistician\nExtended\n\n\nAntonio Remiro-Azocar\nNovo Nordisk\nStatistician\nExtended\n\n\nPepa Polavieja\nNovo Nordisk\nStatistician\nFull\n\n\nLotte Husemoen\nNovo Nordisk\nStatistician\nExtended"
   },
   {
     "objectID": "subteams.html#reporting",
