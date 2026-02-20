@@ -20,7 +20,7 @@ EIWG brings together statisticians and clinicians to support the estimand journe
 Recently, members of the EIWG have prepared topics on ICH E9(R1) requiring clarification.
 The [final set of questions](/publications/Questions-to-ICH-E9-WG-final-19-Dec-25.pdf) have been shared with the previous lead of the ICH E9 Working Group.  
 
-New *North America*, *China* as well as *Study Design* subteams were founded.
+New *North America*, *China* as well as *Study Design* subteams were founded. The *North America* subteam is also an [ASA Biopharmaceutical Section](https://community.amstat.org/biop/home) working group.
 
 Beyond work in the [subteams](subteams.html), the aim of the working group is to provide answers to estimand implementation questions through a variety of activities. These will include: 
 

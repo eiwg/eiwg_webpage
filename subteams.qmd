@@ -42,7 +42,7 @@ tod <- format(today, format = "%d %B %Y")
 
 ## Subteams
 subteams <- c("Communications", "LateStage", "Reporting", "Estimation", "NonInferiority", "Training", "IntercurrentEvent", "EarlyPhase", "NorthAmerica", "StudyDesign", "China")
-subteams_names <- c("Communications", "HTA and RWE", "Reporting", "Estimation", "Non-inferiority", "Training", "Intercurrent event", "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies", "North America", "Study Design", "China")
+subteams_names <- c("Communications", "RWE and HTA", "Reporting", "Estimation", "Non-inferiority", "Training", "Intercurrent event", "Estimands in Early Phase [I/II] & Clinical Pharmacology Studies", "North America", "Study Design", "China")
 ```
 
 # Regional Subteams
