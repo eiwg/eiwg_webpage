@@ -43,23 +43,7 @@ rdate <- unique(talks$rdate)
 dates <- unique(select(talks, date))[, 1]
 ```
 
-## PSI Webinar: Enhancing Clinical Study Reporting with the Estimand Framework
-
-**Link and Details:**
-
-<https://psi.glueup.com/event/172627/>
-
-**Date:** Tuesday 21st April2026 <br> **Time:** 14:00 - 15:30 BST <br> **Location:** Online
-
-This webinar is free to attend. To register for this event, please [click here](https://psi.glueup.com/event/172627/register/)
-
-**Target audience:** Clinical researchers, medical writers, statisticians, and anyone engaged in reporting clinical trial results.
-
-**Key Takeaways:**
-
--   Why estimands matter for decision-making and communication.
--   Practical considerations for integrating estimands into study reports.
--   Lessons learned from case studies and real-world applications.
+Currently no new events are planned.
 
 <!-- Below a list of further upcoming events with contributions of the WG.-->
 
