@@ -47,7 +47,7 @@ dates <- unique(select(talks, date))[, 1]
 
 Below a list of upcoming events with contributions of the WG.
 
-## 16.06.2026: 2026 PSI Annual Conference - EFPIA Estimand Implementation Working Group Session
+## 16.06.2026: 2026 PSI Annual Conference 
 
 **Contribution of the working group:** Session / Panel discussion
 
@@ -65,6 +65,18 @@ Belfast / United Kingdom
 | Laura Rodwell | Dutch Medicines Agency CBG-MEB |
 | Gerhild Angyalosi | Novartis |
 | Steffan Ballerstedt | Novartis |
+
+
+**Contribution of the working group:** Poster
+
+Belfast / United Kingdom
+
+| Speaker                       | Institution           | Title                                                                |
+| ----------------------------- | --------------------- | -------------------------------------------------------------------- |
+| Chun-Hang Tang / Shuying Yang | Astellas Pharma / GSK | Applying the Estimand Framework to Dose-Ranging Trials: A Case Study |
+
+
+
 
 <!-- Below a list of further upcoming events with contributions of the WG.-->
  
