@@ -43,9 +43,31 @@ rdate <- unique(talks$rdate)
 dates <- unique(select(talks, date))[, 1]
 ```
 
-Currently no new events are planned.
+<!-- Currently no new events are planned. -->
+
+Below a list of upcoming events with contributions of the WG.
+
+## 16.06.2026: 2026 PSI Annual Conference - EFPIA Estimand Implementation Working Group Session
+
+**Contribution of the working group:** Session / Panel discussion
+
+Belfast / United Kingdom
+
+**Title:** The estimand conundrum - is ICH E9(R1) crystal clear or are there still areas of confusion?
+
+**Chair:** Chrissie Fletcher, GSK
+
+**Speakers:**
+
+| Speaker | Institution |
+|---|---|
+| David Wright | AstraZeneca |
+| Laura Rodwell | Dutch Medicines Agency CBG-MEB |
+| Gerhild Angyalosi | Novartis |
+| Steffan Ballerstedt | Novartis |
 
 <!-- Below a list of further upcoming events with contributions of the WG.-->
+ 
 
 ```{r echo = FALSE, message = FALSE, warning = FALSE, include = FALSE}
 if (length(dates) > 0) {
