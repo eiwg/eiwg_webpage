@@ -17,6 +17,7 @@ Here we list the publications that the group has written or contributed to:
 
 ## 2026
 
+-   *O. Keene, H. Lynggaard, C. Fletcher, D. Wright, P Terrill.* **Different Clinical Questions Need Different Estimands**. ***New England Journal of Medicine*** (2026) [preprint version](/publications/Estimands-Troxel-response-pre-peer-review-EIWG-version.pdf)
 -   *O. Keene, D. Wright, C. Fletcher.* **Commentary on Fleming et al “A Perspective on the Appropriate Implementation of ICH E9(R1) Addendum Strategies for Handling Intercurrent Events**. ***Statistics in Medicine*** 45(6-7):e70453. (2026) [preprint version](/publications/Commentary-on-Fleming-et-al-01Jul25-pre-peer-review.pdf) <https://doi.org/10.1002/sim.70453>
 
 ## 2025
