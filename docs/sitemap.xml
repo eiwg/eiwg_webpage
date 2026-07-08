@@ -2,7 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/estimand.html</loc>
-<<<<<<< HEAD
     <lastmod>2026-03-21T10:11:06.095Z</lastmod>
   </url>
   <url>
@@ -20,25 +19,6 @@
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/events_past.html</loc>
     <lastmod>2026-05-02T20:46:55.917Z</lastmod>
-=======
-    <lastmod>2026-06-09T22:56:37.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eiwg.github.io/eiwg_webpage/status.html</loc>
-    <lastmod>2026-06-09T22:56:37.346Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eiwg.github.io/eiwg_webpage/resources.html</loc>
-    <lastmod>2026-06-09T22:56:37.346Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eiwg.github.io/eiwg_webpage/organization.html</loc>
-    <lastmod>2026-06-09T22:56:37.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eiwg.github.io/eiwg_webpage/events_past.html</loc>
-    <lastmod>2026-06-09T22:56:37.344Z</lastmod>
->>>>>>> 6cf3d38d545dd2e68f8681751aba662b82693793
   </url>
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/collaborations.html</loc>
@@ -46,11 +26,7 @@
   </url>
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/index.html</loc>
-<<<<<<< HEAD
     <lastmod>2026-02-20T21:19:24.425Z</lastmod>
-=======
-    <lastmod>2026-06-09T22:56:37.344Z</lastmod>
->>>>>>> 6cf3d38d545dd2e68f8681751aba662b82693793
   </url>
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/achievements.html</loc>
@@ -58,7 +34,6 @@
   </url>
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/events_upcoming.html</loc>
-<<<<<<< HEAD
     <lastmod>2026-06-11T20:03:10.773Z</lastmod>
   </url>
   <url>
@@ -68,17 +43,6 @@
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/publications.html</loc>
     <lastmod>2026-07-08T20:21:58.554Z</lastmod>
-=======
-    <lastmod>2026-06-09T22:56:37.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eiwg.github.io/eiwg_webpage/trainings.html</loc>
-    <lastmod>2026-06-09T22:56:37.374Z</lastmod>
-  </url>
-  <url>
-    <loc>https://eiwg.github.io/eiwg_webpage/publications.html</loc>
-    <lastmod>2026-06-09T22:56:37.344Z</lastmod>
->>>>>>> 6cf3d38d545dd2e68f8681751aba662b82693793
   </url>
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/charter.html</loc>
@@ -86,10 +50,6 @@
   </url>
   <url>
     <loc>https://eiwg.github.io/eiwg_webpage/subteams.html</loc>
-<<<<<<< HEAD
     <lastmod>2026-02-20T21:15:11.514Z</lastmod>
-=======
-    <lastmod>2026-06-09T22:56:37.347Z</lastmod>
->>>>>>> 6cf3d38d545dd2e68f8681751aba662b82693793
   </url>
 </urlset>
