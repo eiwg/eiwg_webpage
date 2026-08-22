@@ -45,6 +45,36 @@ dates <- unique(select(talks, date))[, 1]
 
 Below a list of past events with contributions of the WG, with links to slidedecks and recordings (where available).
 
+
+## 16.06.2026: 2026 PSI Annual Conference 
+
+**Contribution of the working group:** Session / Panel discussion
+
+Belfast / United Kingdom
+
+**Title:** The estimand conundrum - is ICH E9(R1) crystal clear or are there still areas of confusion?
+
+**Chair:** Chrissie Fletcher, GSK
+
+**Speakers:**
+
+| Speaker | Institution |
+|---|---|
+| David Wright | AstraZeneca |
+| Laura Rodwell | Dutch Medicines Agency CBG-MEB |
+| Gerhild Angyalosi | Novartis |
+| Steffan Ballerstedt | Novartis |
+
+
+**Contribution of the working group:** Poster
+
+Belfast / United Kingdom
+
+| Speaker                       | Institution           | Title                                                                |
+| ----------------------------- | --------------------- | -------------------------------------------------------------------- |
+| Chun-Hang Tang / Shuying Yang | Astellas Pharma / GSK | Applying the Estimand Framework to Dose-Ranging Trials: A Case Study |
+
+
 ## PSI Webinar: Enhancing Clinical Study Reporting with the Estimand Framework
 
 **Link and Details:**

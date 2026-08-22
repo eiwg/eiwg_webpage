@@ -47,33 +47,23 @@ dates <- unique(select(talks, date))[, 1]
 
 Below a list of upcoming events with contributions of the WG.
 
-## 16.06.2026: 2026 PSI Annual Conference 
+## PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards
 
-**Contribution of the working group:** Session / Panel discussion
+**Link and Details:**
 
-Belfast / United Kingdom
+<https://psiweb.org/events/event-item/2026/09/29/default-calendar/making-estimands-work---practical-approaches-with-implementation-in-data-standards>
 
-**Title:** The estimand conundrum - is ICH E9(R1) crystal clear or are there still areas of confusion?
+**Date:** Tuesday 29th September 2026 <br> **Time:** 14:00 - 15:30 BST <br> **Location:** Online
 
-**Chair:** Chrissie Fletcher, GSK
+This webinar is free to attend. To register for this event, please [click here](https://psi.glueup.com/event/making-estimands-work-practical-approaches-with-implementation-in-data-standards-191011/)
 
-**Speakers:**
+**Target audience:** This webinar is aimed primarily at statistical programmers, with useful insights for data managers, statisticians, medical writers, clinicians and regulators. It will be assumed attendees already have a background understanding of estimands and intercurrent events.
 
-| Speaker | Institution |
-|---|---|
-| David Wright | AstraZeneca |
-| Laura Rodwell | Dutch Medicines Agency CBG-MEB |
-| Gerhild Angyalosi | Novartis |
-| Steffan Ballerstedt | Novartis |
+**What is the benefit of attending?**
 
-
-**Contribution of the working group:** Poster
-
-Belfast / United Kingdom
-
-| Speaker                       | Institution           | Title                                                                |
-| ----------------------------- | --------------------- | -------------------------------------------------------------------- |
-| Chun-Hang Tang / Shuying Yang | Astellas Pharma / GSK | Applying the Estimand Framework to Dose-Ranging Trials: A Case Study |
+-   Understand the core challenges posed by intercurrent event (ICE) handling strategies to data collection, analysis, and documentation
+-   Illustrate how to build Analysis Datasets supporting estimators, including the implementation of the ADICE dataset and tracing impacted datapoints using the ICCyEzz approach
+-   Recognize the best practices for end-to-end documentation, specifically how to detail estimand implementations in the Clinical Study Data Reviewer's Guide (cSDRG) and Analysis Data Reviewer's Guide (ADRG)
 
 
 

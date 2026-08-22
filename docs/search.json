@@ -25,7 +25,7 @@
     "href": "status.html",
     "title": "Status",
     "section": "",
-    "text": "As of 16 August 2026, the working group"
+    "text": "As of 22 August 2026, the working group"
   },
   {
     "objectID": "status.html#current-members",
@@ -103,6 +103,13 @@
     "title": "Past events with contributions from the working group",
     "section": "",
     "text": "Below a list of past events with contributions of the WG, with links to slidedecks and recordings (where available)."
+  },
+  {
+    "objectID": "events_past.html#psi-annual-conference",
+    "href": "events_past.html#psi-annual-conference",
+    "title": "Past events with contributions from the working group",
+    "section": "16.06.2026: 2026 PSI Annual Conference",
+    "text": "16.06.2026: 2026 PSI Annual Conference\nContribution of the working group: Session / Panel discussion\nBelfast / United Kingdom\nTitle: The estimand conundrum - is ICH E9(R1) crystal clear or are there still areas of confusion?\nChair: Chrissie Fletcher, GSK\nSpeakers:\n\n\n\nSpeaker\nInstitution\n\n\n\n\nDavid Wright\nAstraZeneca\n\n\nLaura Rodwell\nDutch Medicines Agency CBG-MEB\n\n\nGerhild Angyalosi\nNovartis\n\n\nSteffan Ballerstedt\nNovartis\n\n\n\nContribution of the working group: Poster\nBelfast / United Kingdom\n\n\n\n\n\n\n\n\nSpeaker\nInstitution\nTitle\n\n\n\n\nChun-Hang Tang / Shuying Yang\nAstellas Pharma / GSK\nApplying the Estimand Framework to Dose-Ranging Trials: A Case Study"
   },
   {
     "objectID": "events_past.html#psi-webinar-enhancing-clinical-study-reporting-with-the-estimand-framework",
@@ -231,11 +238,11 @@
     "text": "Below a list of upcoming events with contributions of the WG."
   },
   {
-    "objectID": "events_upcoming.html#psi-annual-conference",
-    "href": "events_upcoming.html#psi-annual-conference",
+    "objectID": "events_upcoming.html#psi-webinar-making-estimands-work---practical-approaches-with-implementation-in-data-standards",
+    "href": "events_upcoming.html#psi-webinar-making-estimands-work---practical-approaches-with-implementation-in-data-standards",
     "title": "Upcoming events with contributions from the working group",
-    "section": "16.06.2026: 2026 PSI Annual Conference",
-    "text": "16.06.2026: 2026 PSI Annual Conference\nContribution of the working group: Session / Panel discussion\nBelfast / United Kingdom\nTitle: The estimand conundrum - is ICH E9(R1) crystal clear or are there still areas of confusion?\nChair: Chrissie Fletcher, GSK\nSpeakers:\n\n\n\nSpeaker\nInstitution\n\n\n\n\nDavid Wright\nAstraZeneca\n\n\nLaura Rodwell\nDutch Medicines Agency CBG-MEB\n\n\nGerhild Angyalosi\nNovartis\n\n\nSteffan Ballerstedt\nNovartis\n\n\n\nContribution of the working group: Poster\nBelfast / United Kingdom\n\n\n\n\n\n\n\n\nSpeaker\nInstitution\nTitle\n\n\n\n\nChun-Hang Tang / Shuying Yang\nAstellas Pharma / GSK\nApplying the Estimand Framework to Dose-Ranging Trials: A Case Study"
+    "section": "PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards",
+    "text": "PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards\nLink and Details:\nhttps://psiweb.org/events/event-item/2026/09/29/default-calendar/making-estimands-work---practical-approaches-with-implementation-in-data-standards\nDate: Tuesday 29th September 2026  Time: 14:00 - 15:30 BST  Location: Online\nThis webinar is free to attend. To register for this event, please click here\nTarget audience: This webinar is aimed primarily at statistical programmers, with useful insights for data managers, statisticians, medical writers, clinicians and regulators. It will be assumed attendees already have a background understanding of estimands and intercurrent events.\nWhat is the benefit of attending?\n\nUnderstand the core challenges posed by intercurrent event (ICE) handling strategies to data collection, analysis, and documentation\nIllustrate how to build Analysis Datasets supporting estimators, including the implementation of the ADICE dataset and tracing impacted datapoints using the ICCyEzz approach\nRecognize the best practices for end-to-end documentation, specifically how to detail estimand implementations in the Clinical Study Data Reviewer’s Guide (cSDRG) and Analysis Data Reviewer’s Guide (ADRG)"
   },
   {
     "objectID": "trainings.html",
