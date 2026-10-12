@@ -47,25 +47,58 @@ dates <- unique(select(talks, date))[, 1]
 
 Below a list of upcoming events with contributions of the WG.
 
-## PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards
+## ASA Biopharmaceutical Section Webinar: Embedding Estimands in ICH M11: From Framework to Practice
 
-**Link and Details:**
+**Link & Details:** [Register Here](https://events.ticketleap.com/tickets/asabiop/asa-biop-distance-learning-webinar-series-oct-30)  
+**Date:** Friday, October 30, 2026  
+**Time:** 9:00 AM – 11:00 AM EDT  
+**Location:** Online (Free to attend)  
+**Organizer:** North America Estimands Implementation Working Group (NA EIWG), ASA Biopharmaceutical Section  
 
-<https://psiweb.org/events/event-item/2026/09/29/default-calendar/making-estimands-work---practical-approaches-with-implementation-in-data-standards>
+---
 
-**Date:** Tuesday 29th September 2026 <br> **Time:** 14:00 - 15:30 BST <br> **Location:** Online
+### Abstract
 
-This webinar is free to attend. To register for this event, please [click here](https://psi.glueup.com/event/making-estimands-work-practical-approaches-with-implementation-in-data-standards-191011/)
+ICH M11, the Clinical Electronic Structured Harmonised Protocol (CeSHarP) guideline, establishes a globally harmonised approach to the structure, content, and electronic exchange of clinical trial protocols. Its three interconnected components—the Guideline, Protocol Template, and Technical Specification—are intended to improve protocol quality, clarity, consistency, and efficiency across sponsors, investigators, ethics committees, and regulators.
 
-**Target audience:** This webinar is aimed primarily at statistical programmers, with useful insights for data managers, statisticians, medical writers, clinicians and regulators. It will be assumed attendees already have a background understanding of estimands and intercurrent events.
+The ICH E9(R1) Addendum introduced the estimand framework to improve alignment among clinical trial objectives, design, conduct, analysis, and interpretation. As organizations continue to implement estimands in practice, adoption of the M11 protocol template presents an important opportunity to embed estimand thinking directly into protocol development and support more consistent multidisciplinary decision-making.
 
-**What is the benefit of attending?**
+This webinar, organized by the ASA Biopharmaceutical Section's North America Estimands Implementation Working Group (NA EIWG), will explore practical approaches to implementing the estimand framework within the M11 protocol template. Several speakers and panelists were directly involved in the development of ICH M11, bringing firsthand perspectives on its intent and practical application. 
+Webinar participants will discuss:
+* M11’s inclusion of clearly defined clinical questions and estimand tables.
+* How its objective-based protocol structure—rather than the traditional endpoint-based approach—can strengthen alignment of trial objectives and their corresponding estimands with trial design, analysis, and reporting.
+* Implementation challenges, opportunities, and emerging practices across industry and health authorities.
 
--   Understand the core challenges posed by intercurrent event (ICE) handling strategies to data collection, analysis, and documentation
--   Illustrate how to build Analysis Datasets supporting estimators, including the implementation of the ADICE dataset and tracing impacted datapoints using the ICCyEzz approach
--   Recognize the best practices for end-to-end documentation, specifically how to detail estimand implementations in the Clinical Study Data Reviewer's Guide (cSDRG) and Analysis Data Reviewer's Guide (ADRG)
+> The NA EIWG brings together stakeholders from industry, health authorities, and academia to share experiences, identify implementation challenges, and advance practical solutions for estimand implementation.
 
+---
 
+### Participants
+
+#### Speakers
+* **Mary Lynn Mercado** (Novartis)
+* **Alexei Ionan** (FDA, Center for Drug Evaluation and Research)
+* **Stefan Englert** (Johnson & Johnson)
+
+#### Additional Panelists
+* **Frank Petavy** (European Medicines Agency)
+* **Satoru Tsuchiya** (Sumitomo Pharma)
+* **Vladimir Dragalin** (Johnson & Johnson)
+
+#### Chair
+* **Elena Polverejan** (Johnson & Johnson)
+
+---
+
+### Agenda
+
+| Time | Topic | Speaker / Leader |
+| :--- | :--- | :--- |
+| **5 min** | Introduction | **Elena Polverejan** (Johnson & Johnson) |
+| **20 min** | The Fundamentals of ICH M11 | **Mary Lynn Mercado** (Novartis) |
+| **20 min** | Incorporating the Estimand Framework into the ICH M11 Protocol Template | **Alexei Ionan** (FDA, CDER) |
+| **15 min** | An Industry Perspective on M11 Adoption and Practical Implementation | **Stefan Englert** (Johnson & Johnson) |
+| **60 min** | Panel Discussion on M11 Implementation Aspects (Industry & Regulatory Agencies) | **Moderator:** Elena Polverejan (Johnson & Johnson) |
 
 
 <!-- Below a list of further upcoming events with contributions of the WG.-->

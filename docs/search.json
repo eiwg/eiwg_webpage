@@ -25,7 +25,7 @@
     "href": "status.html",
     "title": "Status",
     "section": "",
-    "text": "As of 08 Oktober 2026, the working group"
+    "text": "As of 12 Oktober 2026, the working group"
   },
   {
     "objectID": "status.html#current-members",
@@ -103,6 +103,13 @@
     "title": "Past events with contributions from the working group",
     "section": "",
     "text": "Below a list of past events with contributions of the WG, with links to slidedecks and recordings (where available)."
+  },
+  {
+    "objectID": "events_past.html#psi-webinar-making-estimands-work---practical-approaches-with-implementation-in-data-standards",
+    "href": "events_past.html#psi-webinar-making-estimands-work---practical-approaches-with-implementation-in-data-standards",
+    "title": "Past events with contributions from the working group",
+    "section": "PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards",
+    "text": "PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards\nLink and Details:\nhttps://psiweb.org/events/event-item/2026/09/29/default-calendar/making-estimands-work---practical-approaches-with-implementation-in-data-standards\nDate: Tuesday 29th September 2026  Time: 14:00 - 15:30 BST  Location: Online\nThis webinar is free to attend. To register for this event, please click here\nTarget audience: This webinar is aimed primarily at statistical programmers, with useful insights for data managers, statisticians, medical writers, clinicians and regulators. It will be assumed attendees already have a background understanding of estimands and intercurrent events.\nWhat is the benefit of attending?\n\nUnderstand the core challenges posed by intercurrent event (ICE) handling strategies to data collection, analysis, and documentation\nIllustrate how to build Analysis Datasets supporting estimators, including the implementation of the ADICE dataset and tracing impacted datapoints using the ICCyEzz approach\nRecognize the best practices for end-to-end documentation, specifically how to detail estimand implementations in the Clinical Study Data Reviewer’s Guide (cSDRG) and Analysis Data Reviewer’s Guide (ADRG)"
   },
   {
     "objectID": "events_past.html#psi-annual-conference",
@@ -238,11 +245,11 @@
     "text": "Below a list of upcoming events with contributions of the WG."
   },
   {
-    "objectID": "events_upcoming.html#psi-webinar-making-estimands-work---practical-approaches-with-implementation-in-data-standards",
-    "href": "events_upcoming.html#psi-webinar-making-estimands-work---practical-approaches-with-implementation-in-data-standards",
+    "objectID": "events_upcoming.html#asa-biopharmaceutical-section-webinar-embedding-estimands-in-ich-m11-from-framework-to-practice",
+    "href": "events_upcoming.html#asa-biopharmaceutical-section-webinar-embedding-estimands-in-ich-m11-from-framework-to-practice",
     "title": "Upcoming events with contributions from the working group",
-    "section": "PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards",
-    "text": "PSI Webinar: Making Estimands Work - Practical Approaches with Implementation in Data Standards\nLink and Details:\nhttps://psiweb.org/events/event-item/2026/09/29/default-calendar/making-estimands-work---practical-approaches-with-implementation-in-data-standards\nDate: Tuesday 29th September 2026  Time: 14:00 - 15:30 BST  Location: Online\nThis webinar is free to attend. To register for this event, please click here\nTarget audience: This webinar is aimed primarily at statistical programmers, with useful insights for data managers, statisticians, medical writers, clinicians and regulators. It will be assumed attendees already have a background understanding of estimands and intercurrent events.\nWhat is the benefit of attending?\n\nUnderstand the core challenges posed by intercurrent event (ICE) handling strategies to data collection, analysis, and documentation\nIllustrate how to build Analysis Datasets supporting estimators, including the implementation of the ADICE dataset and tracing impacted datapoints using the ICCyEzz approach\nRecognize the best practices for end-to-end documentation, specifically how to detail estimand implementations in the Clinical Study Data Reviewer’s Guide (cSDRG) and Analysis Data Reviewer’s Guide (ADRG)"
+    "section": "ASA Biopharmaceutical Section Webinar: Embedding Estimands in ICH M11: From Framework to Practice",
+    "text": "ASA Biopharmaceutical Section Webinar: Embedding Estimands in ICH M11: From Framework to Practice\nLink & Details: Register Here\nDate: Friday, October 30, 2026\nTime: 9:00 AM – 11:00 AM EDT\nLocation: Online (Free to attend)\nOrganizer: North America Estimands Implementation Working Group (NA EIWG), ASA Biopharmaceutical Section\n\n\nAbstract\nICH M11, the Clinical Electronic Structured Harmonised Protocol (CeSHarP) guideline, establishes a globally harmonised approach to the structure, content, and electronic exchange of clinical trial protocols. Its three interconnected components—the Guideline, Protocol Template, and Technical Specification—are intended to improve protocol quality, clarity, consistency, and efficiency across sponsors, investigators, ethics committees, and regulators.\nThe ICH E9(R1) Addendum introduced the estimand framework to improve alignment among clinical trial objectives, design, conduct, analysis, and interpretation. As organizations continue to implement estimands in practice, adoption of the M11 protocol template presents an important opportunity to embed estimand thinking directly into protocol development and support more consistent multidisciplinary decision-making.\nThis webinar, organized by the ASA Biopharmaceutical Section’s North America Estimands Implementation Working Group (NA EIWG), will explore practical approaches to implementing the estimand framework within the M11 protocol template. Several speakers and panelists were directly involved in the development of ICH M11, bringing firsthand perspectives on its intent and practical application. Webinar participants will discuss: * M11’s inclusion of clearly defined clinical questions and estimand tables. * How its objective-based protocol structure—rather than the traditional endpoint-based approach—can strengthen alignment of trial objectives and their corresponding estimands with trial design, analysis, and reporting. * Implementation challenges, opportunities, and emerging practices across industry and health authorities.\n\nThe NA EIWG brings together stakeholders from industry, health authorities, and academia to share experiences, identify implementation challenges, and advance practical solutions for estimand implementation.\n\n\n\n\nParticipants\n\nSpeakers\n\nMary Lynn Mercado (Novartis)\nAlexei Ionan (FDA, Center for Drug Evaluation and Research)\nStefan Englert (Johnson & Johnson)\n\n\n\nAdditional Panelists\n\nFrank Petavy (European Medicines Agency)\nSatoru Tsuchiya (Sumitomo Pharma)\nVladimir Dragalin (Johnson & Johnson)\n\n\n\nChair\n\nElena Polverejan (Johnson & Johnson)\n\n\n\n\n\nAgenda\n\n\n\n\n\n\n\n\nTime\nTopic\nSpeaker / Leader\n\n\n\n\n5 min\nIntroduction\nElena Polverejan (Johnson & Johnson)\n\n\n20 min\nThe Fundamentals of ICH M11\nMary Lynn Mercado (Novartis)\n\n\n20 min\nIncorporating the Estimand Framework into the ICH M11 Protocol Template\nAlexei Ionan (FDA, CDER)\n\n\n15 min\nAn Industry Perspective on M11 Adoption and Practical Implementation\nStefan Englert (Johnson & Johnson)\n\n\n60 min\nPanel Discussion on M11 Implementation Aspects (Industry & Regulatory Agencies)\nModerator: Elena Polverejan (Johnson & Johnson)"
   },
   {
     "objectID": "trainings.html",
